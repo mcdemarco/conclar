@@ -1,3 +1,6 @@
+My branch for deploying a test version of conclar to [test.mcdemarco.net/conclar](http://test.mcdemarco.net/conclar).
+For reference, there's a KonOpas there, too, with my recent fixes for android: [test.mcdemarco.net](http://test.mcdemarco.net/).
+
 # ConClár
 
 ConClár is an online Program Guide tool for conventions.

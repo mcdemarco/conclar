@@ -1,6 +1,6 @@
 {
   "BASE_PATH": "/conclar",
-  "APP_TITLE": "ConClár Programme Guide",
+  "APP_TITLE": "ConClár Program Guide",
   "PROGRAM_DATA_URL": "http://test.mcdemarco.net/data/konOpasData.jsonp",
   "PEOPLE_DATA_URL": "http://test.mcdemarco.net/data/konOpasData.jsonp",
   "TIMEZONE": "Europe/Helsinki",
@@ -33,7 +33,12 @@
     "THUMBNAILS": {
       "SHOW_THUMBNAILS": true,
       "SHOW_CHECKBOX": true,
+<<<<<<< HEAD
       "CHECKBOX_LABEL": "Thumbnails"
+=======
+      "CHECKBOX_LABEL": "Thumbnails",
+      "DEFAULT_IMAGE": "//test.mcdemarco.net/data/head.png"
+>>>>>>> main
     },
     "SORT": {
       "SHOW_CHECKBOX": true,
@@ -42,8 +47,12 @@
     "SEARCH": {
       "SHOW_SEARCH": true,
       "SEARCH_LABEL": "Search people"
+<<<<<<< HEAD
     },
     "USE_PLACEHOLDER": "//test.mcdemarco.net/data/head.png"
+=======
+    }
+>>>>>>> main
   },
   "INFORMATION": {
     "MARKDOWN_URL": "info.md",

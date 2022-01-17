@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import configData from "./config.json";
+import ScrollToTop from "./components/ScrollToTop";
 import Header from "./components/Header";
 import Navigation from "./components/Navigation";
 import FilterableProgram from "./components/FilterableProgram";
@@ -124,7 +125,7 @@ export class App extends React.Component {
     const tags = { tags: [] };
 
     // Subfunction to push tag to tag list.
-    function addTag (tagList, value, label) {
+    function addTag(tagList, value, label) {
       // If item doesn't exist in tags array, add it.
       if (
         !tagList.find((entry) => {
@@ -136,8 +137,10 @@ export class App extends React.Component {
     }
 
     // For each tag prefix we want to separate, add a property.
-    for (const tag of configData.TAGS.SEPARATE) {
-      tags[tag.PREFIX] = [];
+    if ("SEPARATE" in configData.TAGS) {
+      for (const tag of configData.TAGS.SEPARATE) {
+        tags[tag.PREFIX] = [];
+      }
     }
     for (const item of program) {
       // Check item has at least one tag.
@@ -268,56 +271,58 @@ export class App extends React.Component {
       );
     return (
       <Router basename={configData.BASE_PATH}>
-        <div className="App">
-          <Header title={configData.APP_TITLE} />
-          <Navigation />
+        <ScrollToTop>
+          <div className="App">
+            <Header title={configData.APP_TITLE} />
+            <Navigation />
 
-          <Routes>
-            <Route path="/">
-              <Route
-                index
-                element={
-                  <FilterableProgram
-                    program={program}
-                    locations={locations}
-                    tags={tags}
-                    offset={offset}
-                    handler={this.programUpdateHandler}
-                  />
-                }
-              />
-              <Route path="people">
-                <Route index element={<People people={people} />} />
+            <Routes>
+              <Route path="/">
                 <Route
-                  path=":id"
+                  index
                   element={
-                    <Person
-                      people={people}
+                    <FilterableProgram
                       program={program}
+                      locations={locations}
+                      tags={tags}
                       offset={offset}
                       handler={this.programUpdateHandler}
                     />
                   }
                 />
-              </Route>
-              <Route
-                path="myschedule"
-                element={
-                  <ProgramList
-                    program={mySchedule}
-                    offset={offset}
-                    handler={this.programUpdateHandler}
+                <Route path="people">
+                  <Route index element={<People people={people} />} />
+                  <Route
+                    path=":id"
+                    element={
+                      <Person
+                        people={people}
+                        program={program}
+                        offset={offset}
+                        handler={this.programUpdateHandler}
+                      />
+                    }
                   />
-                }
-              />
-              <Route
-                path="info"
-                element={<Info info={info} infoIsLoaded={infoIsLoaded} />}
-              />
-            </Route>
-          </Routes>
-          <Footer />
-        </div>
+                </Route>
+                <Route
+                  path="myschedule"
+                  element={
+                    <ProgramList
+                      program={mySchedule}
+                      offset={offset}
+                      handler={this.programUpdateHandler}
+                    />
+                  }
+                />
+                <Route
+                  path="info"
+                  element={<Info info={info} infoIsLoaded={infoIsLoaded} />}
+                />
+              </Route>
+            </Routes>
+            <Footer />
+          </div>
+        </ScrollToTop>
       </Router>
     );
   }

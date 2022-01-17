@@ -43,7 +43,7 @@
       "SHOW_SEARCH": true,
       "SEARCH_LABEL": "Search people"
     },
-    "USE_PLACEHOLDER": ""
+    "USE_PLACEHOLDER": "//test.mcdemarco.net/data/head.png"
   },
   "INFORMATION": {
     "MARKDOWN_URL": "info.md",

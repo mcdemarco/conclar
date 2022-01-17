@@ -1,8 +1,8 @@
 {
   "BASE_PATH": "/conclar",
   "APP_TITLE": "ConClár Program Guide",
-  "PROGRAM_DATA_URL": "http://test.mcdemarco.net/data/konOpasData.jsonp",
-  "PEOPLE_DATA_URL": "http://test.mcdemarco.net/data/konOpasData.jsonp",
+  "PROGRAM_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",
+  "PEOPLE_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",
   "TIMEZONE": "Europe/Helsinki",
   "NAVIGATION": {
     "PROGRAM": "Program",

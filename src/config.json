@@ -17,6 +17,10 @@
       { "PREFIX": "test", "PLACEHOLDER": "Select test" }
     ]
   },
+  "LINKS": {
+    "MEETING": "Click to view stream",
+    "RECORDING": "Click to view recording"
+  },
   "LOCAL_TIME": {
     "CHECKBOX_LABEL": "Include local time",
     "NOTICE": "Local time shown in italics.",
@@ -33,8 +37,8 @@
     "THUMBNAILS": {
       "SHOW_THUMBNAILS": true,
       "SHOW_CHECKBOX": true,
-      "CHECKBOX_LABEL": "Thumbnails",
-      "DEFAULT_IMAGE": "//test.mcdemarco.net/data/head.png"
+      "CHECKBOX_LABEL": "Show thumbnails",
+      "DEFAULT_IMAGE": "head.svg"
     },
     "SORT": {
       "SHOW_CHECKBOX": true,

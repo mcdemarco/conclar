@@ -1,5 +1,5 @@
 {
-  "BASE_PATH": "/conclar",
+  "BASE_PATH": "/conclar/",
   "APP_TITLE": "ConClár Program Guide",
   "PROGRAM_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",
   "PEOPLE_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",

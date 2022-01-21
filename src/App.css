@@ -79,7 +79,7 @@ header h1 {
  * 3. Navigation.
  */
 
- .navigation ul {
+.navigation ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -124,8 +124,9 @@ header h1 {
 
 @media (min-width: 768px) {
   .navigation li a {
-    font-size: 1.125rem;
-    padding: 1rem 2rem;
+    font-size: 1rem;
+    padding: 1rem 1.5rem;
+    border-radius: 2rem;
   }
 }
 
@@ -189,8 +190,13 @@ input.selection-control {
  * 4. Program.
  */
 
-.program-page {
-  /* styles not applied to participants' subprograms */
+/* styles not applied to participants' subprograms */
+/* .program-page {
+} */
+
+.program-empty {
+  font-style: italic;
+  padding-top: 1rem;
 }
 
 .program-container {
@@ -388,9 +394,9 @@ input.selection-control {
   margin-top: 1rem;
 }
 
-.person .program-container {
-  /* program styles only applied to participants' subprograms */
-}
+/* program styles only applied to participants' subprograms */
+/* .person .program-container {
+} */
 
 /*
  * 6. Information page.

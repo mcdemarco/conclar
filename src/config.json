@@ -1,16 +1,16 @@
 {
   "BASE_PATH": "/",
-  "APP_ID": "O2021",
-  "APP_TITLE": "ConClár Programme Guide",
-  "PROGRAM_DATA_URL": "https://zambia.octocon.com/konOpasData.jsonp",
-  "PEOPLE_DATA_URL": "https://zambia.octocon.com/konOpasData.jsonp",
-  "TIMEZONE": "Europe/Dublin",
+  "APP_ID": "59",
+  "APP_TITLE": "Boskone 59 Program Guide",
+  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program.json",
+  "PEOPLE_DATA_URL": "//schedule.boskone.org/data/participants.json",
+  "TIMEZONE": "America/New_York",
   "NAVIGATION": {
-    "PROGRAM": "Programme",
+    "PROGRAM": "Program",
     "PEOPLE": "People",
-    "MYSCHEDULE": "My Schedule",
-    "INFO": "Information",
-    "EXTRA": [{ "LABEL": "Octocon Home", "URL": "https://octocon.com" }]
+    "MYSCHEDULE": "My Con",
+    "INFO": "Info",
+    "EXTRA": []
   },
   "TAGS": {
     "SEPARATE": [
@@ -36,11 +36,11 @@
   "TIME_FORMAT": {
     "DEFAULT_12HR": false,
     "SHOW_CHECKBOX": true,
-    "CHECKBOX_LABEL": "Show 12 hour time"
+    "CHECKBOX_LABEL": "Include 12 hour time"
   },
   "SHOW_PAST_ITEMS": {
     "DEFAULT": true,
-    "CHECKBOX_LABEL": "Show past items",
+    "CHECKBOX_LABEL": "Display past items",
     "ADJUST_MINUTES": 10
   },
   "PEOPLE": {
@@ -52,7 +52,7 @@
     },
     "SORT": {
       "SHOW_CHECKBOX": true,
-      "CHECKBOX_LABEL": "Sort by full name"
+      "CHECKBOX_LABEL": "Sort by first name"
     },
     "SEARCH": {
       "SHOW_SEARCH": true,

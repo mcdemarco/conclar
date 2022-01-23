@@ -1,10 +1,10 @@
 {
-  "BASE_PATH": "/",
+  "BASE_PATH": "/conclar/",
   "APP_ID": "59",
   "APP_TITLE": "ConClár Program Guide",
   "PROGRAM_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",
   "PEOPLE_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",
-  "TIMEZONE": "America/Halifax",
+  "TIMEZONE": "US/Hawaii",
   "NAVIGATION": {
     "PROGRAM": "Program",
     "PEOPLE": "People",

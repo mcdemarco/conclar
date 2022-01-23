@@ -1,16 +1,16 @@
 {
   "BASE_PATH": "/",
-  "APP_ID": "O2021",
-  "APP_TITLE": "ConClár Programme Guide",
-  "PROGRAM_DATA_URL": "https://zambia.octocon.com/konOpasData.jsonp",
-  "PEOPLE_DATA_URL": "https://zambia.octocon.com/konOpasData.jsonp",
-  "TIMEZONE": "Europe/Dublin",
+  "APP_ID": "59",
+  "APP_TITLE": "ConClár Program Guide",
+  "PROGRAM_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",
+  "PEOPLE_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",
+  "TIMEZONE": "America/Halifax",
   "NAVIGATION": {
-    "PROGRAM": "Programme",
+    "PROGRAM": "Program",
     "PEOPLE": "People",
-    "MYSCHEDULE": "My Schedule",
-    "INFO": "Information",
-    "EXTRA": [{ "LABEL": "Octocon Home", "URL": "https://octocon.com" }]
+    "MYSCHEDULE": "My Con",
+    "INFO": "Info",
+    "EXTRA": []
   },
   "TAGS": {
     "SEPARATE": [
@@ -27,7 +27,7 @@
     "RECORDING": "Click to view recording"
   },
   "LOCAL_TIME": {
-    "CHECKBOX_LABEL": "Show local time",
+    "CHECKBOX_LABEL": "Include local time",
     "NOTICE": "Local time shown in italics.",
     "PREV_DAY": " previous day",
     "NEXT_DAY": " next day",
@@ -36,7 +36,7 @@
   "TIME_FORMAT": {
     "DEFAULT_12HR": false,
     "SHOW_CHECKBOX": true,
-    "CHECKBOX_LABEL": "Show 12 hour time"
+    "CHECKBOX_LABEL": "12 hour time"
   },
   "PEOPLE": {
     "THUMBNAILS": {
@@ -47,7 +47,7 @@
     },
     "SORT": {
       "SHOW_CHECKBOX": true,
-      "CHECKBOX_LABEL": "Sort by full name"
+      "CHECKBOX_LABEL": "Sort by first name"
     },
     "SEARCH": {
       "SHOW_SEARCH": true,

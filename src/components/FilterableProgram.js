@@ -8,6 +8,7 @@ const FilterableProgram = ({ program, locations, tags, offset, handler }) => {
   const [search, setSearch] = useState("");
   const [selLoc, setSelLoc] = useState([]);
   const [selTags, setSelTags] = useState({});
+
   // Get default show local time from local storage.
   const [showLocalTime, setShowLocalTime] = useState(
     LocalTime.getStoredLocalTime()
@@ -15,10 +16,31 @@ const FilterableProgram = ({ program, locations, tags, offset, handler }) => {
   const [show12HourTime, setShow12HourTime] = useState(
     LocalTime.getStoredTwelveHourTime()
   );
+  const [hidePastItems, setHidePastItems] = useState(
+    LocalTime.getStoredPastItems()
+  );
 
   const filtered = applyFilters(program);
   const total = filtered.length;
   const totalMessage = `Listing ${total} items`;
+
+  const hidePastItemsCheckbox =
+    offset === 0 ? (
+      ""
+    ) : (
+      <div className="hide-past-items-checkbox">
+        <input
+          id={LocalTime.pastItemClass}
+          name={LocalTime.pastItemClass}
+          type="checkbox"
+          checked={hidePastItems}
+          onChange={handleHidePastItems}
+        />
+        <label htmlFor="hide_past_items">
+          {configData.HIDE_PAST_ITEMS.CHECKBOX_LABEL}
+        </label>
+      </div>
+    );
 
   const localTimeCheckbox =
     offset === 0 ? (
@@ -59,7 +81,7 @@ const FilterableProgram = ({ program, locations, tags, offset, handler }) => {
     const term = search.trim().toLowerCase();
 
     // If no filters, return full program;
-    if (term.length === 0 && selLoc.length === 0 && selTags === 0)
+    if (term.length === 0 && selLoc.length === 0 && selTags === 0 && hidePastItems === false)
       return program;
 
     let filtered = program;
@@ -102,6 +124,14 @@ const FilterableProgram = ({ program, locations, tags, offset, handler }) => {
         });
       }
     }
+		if (hidePastItems) {
+			// Filter by past item state.  Quick hack to treat this as a filter.
+			const now = LocalTime.dateToConTime(new Date());
+			console.log("Showing items after", now.date, now.time, "(adjusted con time).");
+			filtered = filtered.filter((item) => {
+				return (now.date < item.date) || (now.date == item.date && now.time <= item.time);
+			});
+		}
     return filtered;
   }
 
@@ -117,6 +147,11 @@ const FilterableProgram = ({ program, locations, tags, offset, handler }) => {
     let selections = { ...selTags };
     selections[tag] = value;
     setSelTags(selections);
+  }
+
+  function handleHidePastItems(event) {
+    setHidePastItems(event.target.checked);
+    LocalTime.setStoredPastItems(event.target.checked);
   }
 
   function handleShowLocalTime(event) {
@@ -175,6 +210,7 @@ const FilterableProgram = ({ program, locations, tags, offset, handler }) => {
         </div>
         <div className="filter-total">{totalMessage}</div>
         <div className="filter-options">
+          {hidePastItemsCheckbox}
           {localTimeCheckbox}
           {show12HourTimeCheckbox}
         </div>

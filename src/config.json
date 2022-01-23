@@ -1,9 +1,9 @@
 {
   "BASE_PATH": "/",
   "APP_TITLE": "ConClár Programme Guide",
-  "PROGRAM_DATA_URL": "https://zambia.octocon.com/konOpasData.jsonp",
-  "PEOPLE_DATA_URL": "https://zambia.octocon.com/konOpasData.jsonp",
-  "TIMEZONE": "Europe/Dublin",
+  "PROGRAM_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",
+  "PEOPLE_DATA_URL": "//test.mcdemarco.net/data/konOpasData.jsonp",
+  "TIMEZONE": "America/Halifax",
   "NAVIGATION": {
     "PROGRAM": "Programme",
     "PEOPLE": "People",
@@ -20,6 +20,11 @@
   "LINKS": {
     "MEETING": "Click to view stream",
     "RECORDING": "Click to view recording"
+  },
+  "HIDE_PAST_ITEMS": {
+    "DEFAULT": false,
+    "CHECKBOX_LABEL": "Hide past items",
+    "ADJUST_MINUTES": 10
   },
   "LOCAL_TIME": {
     "CHECKBOX_LABEL": "Show local time",

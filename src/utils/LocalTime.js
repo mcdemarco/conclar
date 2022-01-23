@@ -35,6 +35,19 @@ export class LocalTime {
     );
   }
 
+  static get pastItemClass() {
+    return "hide_past_items";
+  }
+
+  static getStoredPastItems() {
+    const storedPastItems = localStorage.getItem(this.pastItemClass);
+    return storedPastItems === "false" ? false : true;
+  }
+
+  static setStoredPastItems(hidePastItems) {
+    localStorage.setItem(this.pastItemClass, hidePastItems ? "true" : "false");
+  }
+
   // Format the date as a string in user's language.
   static formatDateForLocaleAsUTC(date) {
     let language = window.navigator.userLanguage || window.navigator.language;
@@ -180,6 +193,28 @@ export class LocalTime {
     if (ampm) return this.formatHoursMinsAs12Hour(localHours, localMins) + note;
     return this.formatHoursMinsAs24Hour(localHours, localMins) + note;
   }
+
+ 	static dateToConTime(datetime) {
+		//SO: https://stackoverflow.com/a/53652131
+
+		let invdate = new Date(datetime.toLocaleString('en-US', {
+			timeZone: configData.TIMEZONE
+		}));
+
+		var diff = datetime.getTime() - invdate.getTime();
+
+		var conTime = new Date(datetime.getTime() - diff);
+
+		//Make the adjustment.
+		conTime.setMinutes(conTime.getMinutes() - (configData.HIDE_PAST_ITEMS.ADJUST_MINUTES || 0));
+
+		//parse into dates and times in KonOpas format (hopefully)
+		let conTimeFormatted = {};
+		conTimeFormatted.date = conTime.getFullYear() + "-" + ('0' + (conTime.getMonth() + 1)).slice(-2) +  "-" + ('0' + conTime.getDate()).slice(-2);
+    conTimeFormatted.time = ('0' + conTime.getHours()).slice(-2) + ":" + ('0' + conTime.getMinutes()).slice(-2);
+		
+		return conTimeFormatted;
+	}
 
   // If tag contains a ":", capitalise the part before the colon, and add a space after the colon.
   static formatTag(raw) {

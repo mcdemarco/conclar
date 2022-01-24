@@ -52,13 +52,14 @@
       "DEFAULT_IMAGE": "head.svg"
     },
     "SORT": {
-      "SHOW_CHECKBOX": true,
+      "SHOW_CHECKBOX": false,
       "CHECKBOX_LABEL": "Sort by first name"
     },
     "SEARCH": {
       "SHOW_SEARCH": true,
       "SEARCH_LABEL": "Search people"
-    }
+    },
+    "PERSON_HEADER": ""
   },
   "INFORMATION": {
     "MARKDOWN_URL": "info.md",

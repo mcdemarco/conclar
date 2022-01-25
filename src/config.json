@@ -1,6 +1,6 @@
 {
   "BASE_PATH": "/",
-  "APP_ID": "59",
+  "APP_ID": "B59",
   "APP_TITLE": "Boskone 59 Program Guide",
   "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program.json",
   "PEOPLE_DATA_URL": "//schedule.boskone.org/data/participants.json",
@@ -40,7 +40,7 @@
     "CHECKBOX_LABEL": "Include 12 hour time"
   },
   "SHOW_PAST_ITEMS": {
-    "DEFAULT": true,
+    "SHOW_CHECKBOX": true,
     "CHECKBOX_LABEL": "Display past items",
     "ADJUST_MINUTES": 10
   },

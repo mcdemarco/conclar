@@ -65,6 +65,14 @@ const ProgramItem = ({ item }) => {
     ) : (
       ""
     );
+  const duration =
+    configData.DURATION.SHOW_DURATION && item.mins ? (
+      <div className="item-duration">
+        {configData.DURATION.DURATION_LABEL.replace("@mins", item.mins)}
+      </div>
+    ) : (
+      ""
+    );
 
   return (
     <div id={id} className="item">
@@ -81,6 +89,7 @@ const ProgramItem = ({ item }) => {
       <div className="item-entry" onClick={toggleExpanded}>
         <div className="item-title">{item.title}</div>
         <div className="item-location">{locations}</div>
+        {duration}
         <div
           className={
             expanded ? "item-details item-details-expanded" : "item-details"

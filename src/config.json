@@ -12,10 +12,15 @@
     "INFO": "Info",
     "EXTRA": []
   },
+  "LOCATIONS": {
+    "SEARCHABLE": true
+  },
   "TAGS": {
+    "PLACEHOLDER": "Select tags",
+    "SEARCHABLE": true,
     "SEPARATE": [
-      { "PREFIX": "type", "PLACEHOLDER": "Select type" },
-      { "PREFIX": "test", "PLACEHOLDER": "Select test" }
+      { "PREFIX": "type", "PLACEHOLDER": "Select type", "SEARCHABLE": true },
+      { "PREFIX": "test", "PLACEHOLDER": "Select test", "SEARCHABLE": true }
     ],
     "FORMAT_AS_TAG": true
   },
@@ -39,6 +44,10 @@
     "SHOW_CHECKBOX": true,
     "CHECKBOX_LABEL": "Include 12 hour time"
   },
+  "DURATION": {
+    "SHOW_DURATION": true,
+    "DURATION_LABEL": "Duration: @mins mins"
+  },
   "SHOW_PAST_ITEMS": {
     "SHOW_CHECKBOX": true,
     "CHECKBOX_LABEL": "Display past items",
@@ -60,6 +69,9 @@
       "SEARCH_LABEL": "Search people"
     },
     "PERSON_HEADER": ""
+  },
+  "USELESS_CHECKBOX": {
+    "CHECKBOX_LABEL": "Useless checkbox"
   },
   "INFORMATION": {
     "MARKDOWN_URL": "info.md",

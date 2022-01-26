@@ -46,7 +46,7 @@
   },
   "DURATION": {
     "SHOW_DURATION": true,
-    "DURATION_LABEL": "Duration: @mins mins"
+    "DURATION_LABEL": " (@mins mins)"
   },
   "SHOW_PAST_ITEMS": {
     "SHOW_CHECKBOX": true,

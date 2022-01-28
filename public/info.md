@@ -1,6 +1,8 @@
 ## Quick Reference
 
-Coming soon!  For now, please consult the [main Boskone site](https://boskone.org/).
+This is a static version of the schedule.  For the interactive app, please visit [schedule.boskone.org](https://schedule.boskone.org/).
+
+The quick reference is coming soon!  For now, please consult the [main Boskone site](https://boskone.org/).
 
 ----
 

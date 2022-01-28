@@ -1,7 +1,7 @@
 {
-  "BASE_PATH": "/",
-  "APP_ID": "B59",
-  "APP_TITLE": "Boskone 59 Program Guide",
+  "BASE_PATH": "/still/",
+  "APP_ID": "B59s",
+  "APP_TITLE": "Boskone 59 Schedule",
   "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program.json",
   "PEOPLE_DATA_URL": "//schedule.boskone.org/data/participants.json",
   "TIMEZONE": "America/New_York",

@@ -5,6 +5,7 @@
   "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program.json",
   "PEOPLE_DATA_URL": "//schedule.boskone.org/data/participants.json",
   "TIMEZONE": "America/New_York",
+  "INTERACTIVE": false,
   "NAVIGATION": {
     "PROGRAM": "Program",
     "PEOPLE": "People",

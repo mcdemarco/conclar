@@ -34,7 +34,7 @@
     "RECORDING": "Click to view recording"
   },
   "LOCAL_TIME": {
-    "CHECKBOX_LABEL": "Show local time",
+    "CHECKBOX_LABEL": "Include local time",
     "NOTICE": "Local time shown in italics.",
     "PREV_DAY": " previous day",
     "NEXT_DAY": " next day",
@@ -43,7 +43,7 @@
   "TIME_FORMAT": {
     "DEFAULT_12HR": false,
     "SHOW_CHECKBOX": true,
-    "CHECKBOX_LABEL": "Include 12 hour time"
+    "CHECKBOX_LABEL": "AM/PM"
   },
   "DURATION": {
     "SHOW_DURATION": true,

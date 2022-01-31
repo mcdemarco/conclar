@@ -20,10 +20,10 @@ const ProgramItem = ({ item }) => {
   }));
 
   function toggleExpanded() {
-		if (configData.INTERACTIVE) {
-			if (expanded) collapseItem(item.id);
-			else expandItem(item.id);
-		}
+    if (configData.INTERACTIVE) {
+      if (expanded) collapseItem(item.id);
+      else expandItem(item.id);
+    }
   }
 
   function handleSelected(event) {
@@ -47,10 +47,18 @@ const ProgramItem = ({ item }) => {
   const people = [];
   if (item.people) {
     item.people.forEach((person) => {
-      people.push(<Participant key={person.id} person={person} />);
+      people.push(<Participant key={person.id} person={person} moderator={person.id === item.moderator} />);
     });
   }
   const safeDesc = DOMPurify.sanitize(item.desc);
+  const signupLink =
+    item.links && item.links.signup && item.links.signup.length ? (
+      <div className="item-links-signup">
+        <a href={item.links.signup}>{configData.LINKS.SIGNUP}</a>
+      </div>
+    ) : (
+      ""
+    );
   const meetingLink =
     item.links && item.links.meeting && item.links.meeting.length ? (
       <div className="item-links-meeting">
@@ -108,6 +116,7 @@ const ProgramItem = ({ item }) => {
             dangerouslySetInnerHTML={{ __html: safeDesc }}
           />
           <div className="item-links">
+            {signupLink}
             {meetingLink}
             {recordingLink}
           </div>

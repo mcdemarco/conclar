@@ -34,7 +34,7 @@
     "COLLAPSE_ALL_LABEL": "Collapse All"
   },
   "ITEM_DESCRIPTION": {
-    "PURIFY_OPTIONS": {}
+    "PURIFY_OPTIONS": {"FORBID_ATTR": ["style"]}
   },
   "LINKS": {
     "SIGNUP": "Click to sign up",

@@ -54,7 +54,7 @@ The main place customisations go is the `src/config.json` file. Settings current
 - `PROGRAM_DATA_URL`: The address of the file containing programme data.
 - `PEOPLE_DATA_URL`: The address of the file listing people. If these are the same, both will be read from one file, but programme data must come before people data.
 - `TIMEZONE`: The name of the timezone where your convention takes place. Viewers outside convention timezone will see times in convention time, and their local time below it.
-- `INTERACTIVE`: Set to `false` to get a non-interactive, expanded view of the schedule. The info page is also included, but not the participant list or individual participant pages.
+- `INTERACTIVE`: Set to `false` to get a non-interactive, expanded view of the schedule. The info page is also included, but not the participant list, individual participant pages, or individual item pages (regardless of the `PERMALINK.SHOW_PERMALINK` setting).
 - `NAVIGATION`: Each value in this section sets the label that will appear on main navigation of the site. Useful for switching between different international spellings of "programme".
 - `NAVIGATION.PROGRAM`: Label for program/programme menu.
 - `NAVIGATION.PEOPLE`: Label for people menu.
@@ -66,6 +66,11 @@ The main place customisations go is the `src/config.json` file. Settings current
 - `TAGS.SEARCHABLE`: Whether the tag list can be searched by typing (unless separated).
 - `TAGS.SEPARATE`: An array of tag prefixes to separate into individual drop-downs. Tags should be specified as follows: `{ "PREFIX": "type", "PLACEHOLDER": "Select type" }`.
 - `TAGS.FORMAT_AS_TAG`: If set to true, turns Grenadine item format into a KonOpas-style "type" tag.
+- `PERMALINK.SHOW_PERMALINK`: If true, display a "permalink" icon when each program item is expanded.
+- `PERMALINK.PERMALINK_TITLE`: "Title" text displayed when mouse is hovered over permalink icon.
+- `EXPAND.EXPAND_ALL_LABEL`: Label text for Expand All button.
+- `EXPAND.COLLAPSE_ALL_LABEL`: Label for Collapse All button.
+- `ITEM_DESCRIPTION.PURIFY_OPTIONS`: Pass additional options to DOMPurify when processing item descriptions.  For the available options, see [the DOMPurify documentation](https://github.com/cure53/DOMPurify#can-i-configure-dompurify).  Format options as JSON, *e.g.*, `{"FORBID_ATTR": ["style"]}`.
 - `LINKS.MEETING`: Text to display on meeting links.
 - `LINKS.RECORDING`: Text to display on recording links.
 - `LOCAL_TIME.CHECKBOX_LABEL`: Label for the "Show Local Time" checkbox.
@@ -89,6 +94,7 @@ The main place customisations go is the `src/config.json` file. Settings current
 - `PEOPLE.SORT.CHECKBOX_LABEL`: Label for "Sort by full name" checkbox.
 - `PEOPLE.SEARCH.SHOW_SEARCH`: Set to false to hide "people" search box.
 - `PEOPLE.SEARCH.SEARCH_LABEL`: Label for "people2 search box.
+- `PEOPLE.BIO.PURIFY_OPTIONS`: Pass additional options to DOMPurify when processing participant bios.  For more details, see `ITEM_DESCRIPTION.PURIFY_OPTIONS` above.
 - `USELESS_CHECKBOX.CHECKBOX_LABEL`: Label for any useless checkboxes.
 - `INFORMATION.MARKDOWN_URL`: The address of the markdown file containing additional information about the convention.
 - `INFORMATION.LOADING_MESSAGE`: Text to show while Markdown file is loading (usually never seen).

@@ -1,12 +1,14 @@
 import DOMPurify from "dompurify";
 import { useStoreState, useStoreActions } from "easy-peasy";
+import { Link } from "react-router-dom";
+import { HiLink } from "react-icons/hi";
 import Location from "./Location";
 import Tag from "./Tag";
 import Participant from "./Participant";
 import configData from "../config.json";
-//import PropTypes from 'prop-types'
+import PropTypes from "prop-types";
 
-const ProgramItem = ({ item }) => {
+const ProgramItem = ({ item, forceExpanded }) => {
   const selected = useStoreState((state) => state.isSelected(item.id));
   const { addSelection, removeSelection } = useStoreActions((actions) => ({
     addSelection: actions.addSelection,
@@ -39,6 +41,20 @@ const ProgramItem = ({ item }) => {
     }
   else locations.push(<Location key={item.loc} loc={item.loc} />);
 
+  const permaLink =
+    configData.PERMALINK.SHOW_PERMALINK && configData.INTERACTIVE ? (
+      <div className="item-permalink">
+        <Link
+          to={"/id/" + item.id}
+          title={configData.PERMALINK.PERMALINK_TITLE}
+        >
+          <HiLink />
+        </Link>
+      </div>
+    ) : (
+      ""
+    );
+
   const tags = [];
   for (let tag of item.tags) {
     tags.push(<Tag key={tag} tag={tag} />);
@@ -47,10 +63,19 @@ const ProgramItem = ({ item }) => {
   const people = [];
   if (item.people) {
     item.people.forEach((person) => {
-      people.push(<Participant key={person.id} person={person} moderator={person.id === item.moderator} />);
+      people.push(
+        <Participant
+          key={person.id}
+          person={person}
+          moderator={person.id === item.moderator}
+        />
+      );
     });
   }
-  const safeDesc = DOMPurify.sanitize(item.desc);
+  const safeDesc = DOMPurify.sanitize(
+    item.desc,
+    configData.ITEM_DESCRIPTION.PURIFY_OPTIONS
+  );
   const signupLink =
     item.links && item.links.signup && item.links.signup.length ? (
       <div className="item-links-signup">
@@ -104,9 +129,12 @@ const ProgramItem = ({ item }) => {
         </div>
         <div
           className={
-            expanded ? "item-details item-details-expanded" : "item-details"
+            expanded || forceExpanded
+              ? "item-details item-details-expanded"
+              : "item-details"
           }
         >
+          {permaLink}
           <div className="item-people">
             <ul>{people}</ul>
           </div>
@@ -126,8 +154,12 @@ const ProgramItem = ({ item }) => {
   );
 };
 
-// ProgramItem.PropTypes = {
-//     item: PropTypes.object
-// }
+ProgramItem.defaultProps = {
+  forceExpanded: false,
+};
+
+ProgramItem.propTypes = {
+  forceExpanded: PropTypes.bool,
+};
 
 export default ProgramItem;

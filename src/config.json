@@ -25,9 +25,16 @@
     ],
     "FORMAT_AS_TAG": true
   },
+  "PERMALINK": {
+    "SHOW_PERMALINK": true,
+    "PERMALINK_TITLE": "Permalink"
+  },
   "EXPAND": {
     "EXPAND_ALL_LABEL": "Expand All",
     "COLLAPSE_ALL_LABEL": "Collapse All"
+  },
+  "ITEM_DESCRIPTION": {
+    "PURIFY_OPTIONS": {}
   },
   "LINKS": {
     "SIGNUP": "Click to sign up",
@@ -73,7 +80,10 @@
       "SHOW_SEARCH": true,
       "SEARCH_LABEL": "Search people"
     },
-    "PERSON_HEADER": ""
+    "PERSON_HEADER": "",
+    "BIO": {
+      "PURIFY_OPTIONS": {}
+    }
   },
   "USELESS_CHECKBOX": {
     "CHECKBOX_LABEL": "Useless checkbox"

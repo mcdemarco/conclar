@@ -49,7 +49,7 @@
     "FAILURE": "Unable to convert to local time."
   },
   "TIME_FORMAT": {
-    "DEFAULT_12HR": false,
+    "DEFAULT_12HR": true,
     "SHOW_CHECKBOX": true,
     "CHECKBOX_LABEL": "Include 12 hour time"
   },

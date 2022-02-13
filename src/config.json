@@ -1,6 +1,6 @@
 {
-  "BASE_PATH": "/",
-  "APP_ID": "B59",
+  "BASE_PATH": "/conclar/",
+  "APP_ID": "B59V",
   "APP_TITLE": "Boskone 59 Program Guide",
   "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program.json",
   "PEOPLE_DATA_URL": "//schedule.boskone.org/data/participants.json",

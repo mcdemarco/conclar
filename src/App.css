@@ -554,12 +554,23 @@ input.switch:checked ~ label:after {
 
 /* boskone info */
 
+.info p {
+  margin-bottom: 0.3rem;
+}
+
 .info ul {
   line-height: 1.3;
+  padding-top: 0.1rem;
+  margin-block-start: 0.1rem;
 }
 
 .info ul li {
     list-style-type: none;
+}
+
+.info ul li strong,
+.info ul li em {
+    font-size: smaller;
 }
 
 /*

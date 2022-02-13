@@ -2,6 +2,8 @@
 
 *All convention activities are located to the left side (ie, closest to the ocean) as you enter hotel lobby from the front door.*
 
+Some of this information is available in grid form at the [main Boskone site](https://boskone.org/program/hours-events/).
+
 **Access** (see Information) 
 
 **Art Show** (Galleria/Lower Level) 

@@ -2,7 +2,7 @@
   "BASE_PATH": "/still/",
   "APP_ID": "B59s",
   "APP_TITLE": "Boskone 59 Schedule",
-  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program.json",
+  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program_tagged.json",
   "PEOPLE_DATA_URL": "//schedule.boskone.org/data/participants.json",
   "TIMEZONE": "America/New_York",
   "INTERACTIVE": false,
@@ -20,8 +20,10 @@
     "PLACEHOLDER": "Select tags",
     "SEARCHABLE": false,
     "SEPARATE": [
-      { "PREFIX": "type", "PLACEHOLDER": "Select type", "SEARCHABLE": true },
-      { "PREFIX": "test", "PLACEHOLDER": "Select test", "SEARCHABLE": true }
+      { "PREFIX": "theme", "PLACEHOLDER": "Select themes", "SEARCHABLE": true },
+      { "PREFIX": "tag", "PLACEHOLDER": "Select tags", "SEARCHABLE": true },
+      { "PREFIX": "type", "PLACEHOLDER": "Select types", "SEARCHABLE": true },
+      { "PREFIX": "Viewing type", "PLACEHOLDER": "Viewing types", "SEARCHABLE": true }
     ],
     "FORMAT_AS_TAG": true
   },

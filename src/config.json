@@ -21,7 +21,9 @@
     "SEARCHABLE": false,
     "SEPARATE": [
       { "PREFIX": "type", "PLACEHOLDER": "Select type", "SEARCHABLE": true },
-      { "PREFIX": "test", "PLACEHOLDER": "Select test", "SEARCHABLE": true }
+      { "PREFIX": "theme", "PLACEHOLDER": "Select theme", "SEARCHABLE": true },
+      { "PREFIX": "tag", "PLACEHOLDER": "Select tag", "SEARCHABLE": true },
+      { "PREFIX": "Viewing type", "PLACEHOLDER": "Viewing type", "SEARCHABLE": true }
     ],
     "FORMAT_AS_TAG": true
   },

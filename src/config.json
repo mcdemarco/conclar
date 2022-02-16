@@ -2,7 +2,7 @@
   "BASE_PATH": "/conclar/",
   "APP_ID": "B59V",
   "APP_TITLE": "Boskone 59 Program Guide",
-  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program_tagged.json",
+  "PROGRAM_DATA_URL": "//virtualb59.boskone.org/boskone/2022/program.php",
   "PEOPLE_DATA_URL": "//schedule.boskone.org/data/participants.json",
   "TIMEZONE": "America/New_York",
   "INTERACTIVE": true,

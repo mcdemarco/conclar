@@ -2,7 +2,7 @@
   "BASE_PATH": "/conclar/",
   "APP_ID": "B59V",
   "APP_TITLE": "Boskone 59 Program Guide",
-  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program.json",
+  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/program_tagged.json",
   "PEOPLE_DATA_URL": "//schedule.boskone.org/data/participants.json",
   "TIMEZONE": "America/New_York",
   "INTERACTIVE": true,
@@ -20,10 +20,10 @@
     "PLACEHOLDER": "Select tags",
     "SEARCHABLE": false,
     "SEPARATE": [
-      { "PREFIX": "type", "PLACEHOLDER": "Select type", "SEARCHABLE": true },
-      { "PREFIX": "theme", "PLACEHOLDER": "Select theme", "SEARCHABLE": true },
-      { "PREFIX": "tag", "PLACEHOLDER": "Select tag", "SEARCHABLE": true },
-      { "PREFIX": "Viewing type", "PLACEHOLDER": "Viewing type", "SEARCHABLE": true }
+      { "PREFIX": "theme", "PLACEHOLDER": "Select themes", "SEARCHABLE": true },
+      { "PREFIX": "tag", "PLACEHOLDER": "Select tags", "SEARCHABLE": true },
+      { "PREFIX": "type", "PLACEHOLDER": "Select types", "SEARCHABLE": true },
+      { "PREFIX": "Viewing type", "PLACEHOLDER": "Viewing types", "SEARCHABLE": true }
     ],
     "FORMAT_AS_TAG": true
   },

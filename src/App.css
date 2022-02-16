@@ -396,7 +396,11 @@ input.switch:checked ~ label:after {
 .item-tag,
 .item-location {
   display: inline-block;
-  margin-right: 0.5rem;
+}
+
+div.item-tag ~ div.item-tag::before {
+    padding: 0 0.5em;
+    content: "•";
 }
 
 /* To put duration on its own line, remove this bit. */

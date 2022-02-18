@@ -414,15 +414,29 @@ div.item-tag ~ div.item-tag::before {
   float: right;
 }
 
-.item-permalink a {
+.item-permalink a,
+.item-links a {
   transition: color .4s;
   color: var(--permalink-icon-fg);
 }
-.item-permalink a:visited {
+.item-permalink a:visited,
+.item-links a:visited {
   color: var(--permalink-icon-fg);
 }
-.item-permalink a:hover   { 
+.item-permalink a:hover, 
+.item-links a:hover { 
   color: var(--permalink-icon-hover-fg);
+}
+
+/* fix link spacing */
+
+.item-links {
+  margin-top: 0.3rem;
+}
+
+.item-description p {
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
 }
 
 .item-people {

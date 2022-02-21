@@ -98,6 +98,15 @@ export class ProgramData {
     return program;
   }
 
+  static tagLinks(program,linkType,tagText) {
+    //tagText should include the prefix if using them.
+    for (let item of program) {
+      if (item.hasOwnProperty("links") && item.links.hasOwnProperty(linkType))
+        item.tags.push(tagText);
+    }
+    return program;
+  }
+
   // Extract tags from program.
   static processTags(program) {
     //Pre-parse grenadine Format as konopas Type.
@@ -154,7 +163,10 @@ export class ProgramData {
   // Process data from program and people.
   static processData(progData, pplData) {
     let program = this.processProgramData(progData);
-    if (configData.TAGS.FORMAT_AS_TAG) program = this.reformatAsTag(program);
+    if (configData.TAGS.FORMAT_AS_TAG)
+      program = this.reformatAsTag(program);
+    if (configData.LINKS.TAG_RECORDINGS)
+      program = this.tagLinks(program,"recording",configData.LINKS.TAG_RECORDINGS);
     const people = this.processPeopleData(pplData);
     this.addProgramParticipantDetails(program, people);
     const locations = this.processLocations(program);

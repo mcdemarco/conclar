@@ -20,10 +20,10 @@
     "PLACEHOLDER": "Select tags",
     "SEARCHABLE": false,
     "SEPARATE": [
-      { "PREFIX": "theme", "PLACEHOLDER": "Select themes", "SEARCHABLE": true },
-      { "PREFIX": "tag", "PLACEHOLDER": "Select tags", "SEARCHABLE": true },
-      { "PREFIX": "type", "PLACEHOLDER": "Select types", "SEARCHABLE": true },
-      { "PREFIX": "Viewing type", "PLACEHOLDER": "Viewing types", "SEARCHABLE": true }
+      { "PREFIX": "theme", "PLACEHOLDER": "Select themes", "SEARCHABLE": false },
+      { "PREFIX": "tag", "PLACEHOLDER": "Select tags", "SEARCHABLE": false },
+      { "PREFIX": "type", "PLACEHOLDER": "Select types", "SEARCHABLE": false },
+      { "PREFIX": "Viewing type", "PLACEHOLDER": "Viewing types", "SEARCHABLE": false }
     ],
     "FORMAT_AS_TAG": true
   },
@@ -41,7 +41,8 @@
   "LINKS": {
     "SIGNUP": "Click to sign up",
     "MEETING": "Click to view stream",
-    "RECORDING": "Click to view recording"
+    "RECORDING": "Click to view recording",
+    "TAG_RECORDINGS": "Viewing type: Recording available"
   },
   "LOCAL_TIME": {
     "CHECKBOX_LABEL": "Include local time",

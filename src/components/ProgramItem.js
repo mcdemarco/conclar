@@ -79,7 +79,7 @@ const ProgramItem = ({ item, forceExpanded }) => {
   const signupLink =
     item.links && item.links.signup && item.links.signup.length ? (
       <div className="item-links-signup">
-        <a href={item.links.signup} target="_blank">{configData.LINKS.SIGNUP}</a>
+        <a href={item.links.signup} target="_blank" rel="noreferrer">{configData.LINKS.SIGNUP}</a>
       </div>
     ) : (
       ""
@@ -87,7 +87,7 @@ const ProgramItem = ({ item, forceExpanded }) => {
   const meetingLink =
     item.links && item.links.meeting && item.links.meeting.length ? (
       <div className="item-links-meeting">
-        <a href={item.links.meeting} target="_blank">{configData.LINKS.MEETING}</a>
+        <a href={item.links.meeting} target="_blank" rel="noreferrer">{configData.LINKS.MEETING}</a>
       </div>
     ) : (
       ""
@@ -95,7 +95,7 @@ const ProgramItem = ({ item, forceExpanded }) => {
   const recordingLink =
     item.links && item.links.recording && item.links.recording.length ? (
       <div className="item-links-recording">
-        <a href={item.links.recording} target="_blank">{configData.LINKS.RECORDING}</a>
+        <a href={item.links.recording} target="_blank" rel="noreferrer">{configData.LINKS.RECORDING}</a>
       </div>
     ) : (
       ""

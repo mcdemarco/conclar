@@ -3,7 +3,7 @@ import { useStoreState, useStoreActions } from "easy-peasy";
 import Day from "./Day";
 import configData from "../config.json";
 
-const ProgramList = ({ program, forceExpanded }) => {
+const ProgramList = ({ program, uninteractive, forceExpanded }) => {
   const showLocalTime = useStoreState((state) => state.showLocalTime);
   const offset = useStoreState((state) => state.offset);
 
@@ -62,22 +62,29 @@ const ProgramList = ({ program, forceExpanded }) => {
     ) : (
       ""
     );
+
+  const filters = 
+    uninteractive ? (
+        ""
+      ) : (
+      <div className="result-filters">
+        <div className="stack">
+          <div className="filter-total">{totalMessage}</div>
+          <div className="filter-expand">
+            <button disabled={allExpanded} onClick={expandAll}>
+              {configData.EXPAND.EXPAND_ALL_LABEL}
+            </button>
+            <button disabled={noneExpanded} onClick={collapseAll}>
+              {configData.EXPAND.COLLAPSE_ALL_LABEL}
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+
   return (
     <div className="program-container">
-	<div className="result-filters">
-	  <div className="stack">
-            <div className="filter-total">{totalMessage}</div>
-            <div className="filter-expand">
-              <button disabled={allExpanded} onClick={expandAll}>
-		{configData.EXPAND.EXPAND_ALL_LABEL}
-              </button>
-              <button disabled={noneExpanded} onClick={collapseAll}>
-		{configData.EXPAND.COLLAPSE_ALL_LABEL}
-              </button>
-            </div>
-	  </div>
-         </div>
-
+      {filters}
       {localTime}
       <div className="program">{rows}</div>
     </div>

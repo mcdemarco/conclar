@@ -35,7 +35,7 @@ const UnfilterableProgram = () => {
   return (
     <div className="uninteractive">
       <div className="program-page">
-        <ProgramList program={filtered} />
+        <ProgramList program={filtered} uninteractive="true" />
       </div>
       <hr />
       <Info />

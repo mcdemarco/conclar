@@ -23,20 +23,12 @@ const FilterableProgram = () => {
   const setShowPastItems = useStoreActions(
     (actions) => actions.setShowPastItems
   );
-  const { expandAll, collapseAll } = useStoreActions((actions) => ({
-    expandAll: actions.expandAll,
-    collapseAll: actions.collapseAll,
-  }));
-  const noneExpanded = useStoreState((state) => state.noneExpanded);
-  const allExpanded = useStoreState((state) => state.allExpanded);
 
   const [search, setSearch] = useState("");
   const [selLoc, setSelLoc] = useState([]);
   const [selTags, setSelTags] = useState({});
 
   const filtered = applyFilters(program);
-  const total = filtered.length;
-  const totalMessage = `Listing ${total} items`;
 
   const localTimeCheckbox =
     offset === null || offset === 0 ? (
@@ -241,17 +233,6 @@ const FilterableProgram = () => {
           </div>
 	</div>
 	<div className="result-filters">
-	  <div className="stack">
-            <div className="filter-total">{totalMessage}</div>
-            <div className="filter-expand">
-              <button disabled={allExpanded} onClick={expandAll}>
-		{configData.EXPAND.EXPAND_ALL_LABEL}
-              </button>
-              <button disabled={noneExpanded} onClick={collapseAll}>
-		{configData.EXPAND.COLLAPSE_ALL_LABEL}
-              </button>
-            </div>
-	  </div>
           <div className="filter-options">
             {localTimeCheckbox}
             {show12HourTimeCheckbox}

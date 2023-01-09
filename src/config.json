@@ -1,9 +1,9 @@
 {
   "BASE_PATH": "/",
-  "APP_ID": "O2021",
-  "APP_TITLE": "ConClár Programme Guide",
-  "PROGRAM_DATA_URL": "schedule_tag.json",
-  "PEOPLE_DATA_URL": "participants_tag.json",
+  "APP_ID": "B60",
+  "APP_TITLE": "Boskone 60 Program Guide",
+  "PROGRAM_DATA_URL": "both.json",
+  "PEOPLE_DATA_URL": "both.json",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
@@ -11,7 +11,7 @@
       "Origin": "http://example.com"
     }
   },
-  "TIMEZONE": "America/Chicago",
+  "TIMEZONE": "America/New_York",
   "INTERACTIVE": true,
   "HEADER": {
     "IMG_SRC": "",
@@ -19,12 +19,12 @@
     "LINEFEED_AFTER_URL": false
   },
   "NAVIGATION": {
-    "PROGRAM": "Programme",
+    "PROGRAM": "Program",
     "PEOPLE": "People",
-    "MYSCHEDULE": "My Schedule",
-    "INFO": "Information",
+    "MYSCHEDULE": "My Con",
+    "INFO": "Info",
     "SETTINGS": "Settings",
-    "EXTRA": [{ "LABEL": "Octocon Home", "URL": "https://octocon.com" }]
+    "EXTRA": []
   },
   "LOCATIONS": {
     "SEARCHABLE": false
@@ -39,10 +39,13 @@
     "SEARCHABLE": false,
     "HIDE": false,
     "SEPARATE": [
-      { "PREFIX": "type", "PLACEHOLDER": "Select type", "SEARCHABLE": true, "HIDE": false },
-      { "PREFIX": "test", "PLACEHOLDER": "Select test", "SEARCHABLE": true, "HIDE": false }
+      { "PREFIX": "theme", "PLACEHOLDER": "Select themes", "SEARCHABLE": false, "HIDE": false },
+      { "PREFIX": "tag", "PLACEHOLDER": "Select tags", "SEARCHABLE": false, "HIDE": false },
+      { "PREFIX": "track", "PLACEHOLDER": "Select track", "SEARCHABLE": false, "HIDE": true },
+      { "PREFIX": "type", "PLACEHOLDER": "Select types", "SEARCHABLE": false, "HIDE": false },
+      { "PREFIX": "Viewing type", "PLACEHOLDER": "Viewing types", "SEARCHABLE": false, "HIDE": false }
     ],
-    "FORMAT_AS_TAG": false,
+    "FORMAT_AS_TAG": true,
     "DAY_TAG": {
       "GENERATE": true,
       "PLACEHOLDER": "Select days",
@@ -87,13 +90,13 @@
     "FAILURE": "Unable to convert to local time."
   },
   "TIME_FORMAT": {
-    "DEFAULT_12HR": false,
+    "DEFAULT_12HR": true,
     "SHOW_CHECKBOX": true,
-    "CHECKBOX_LABEL": "Show 12 hour time"
+    "CHECKBOX_LABEL": "AM/PM"
   },
   "DURATION": {
     "SHOW_DURATION": true,
-    "DURATION_LABEL": "Duration: @mins mins"
+    "DURATION_LABEL": " (@mins mins)"
   },
   "SHOW_PAST_ITEMS": {
     "SHOW_CHECKBOX": true,
@@ -112,7 +115,7 @@
       "DEFAULT_IMAGE": "head.svg"
     },
     "SORT": {
-      "SHOW_CHECKBOX": true,
+      "SHOW_CHECKBOX": false,
       "CHECKBOX_LABEL": "Sort by full name"
     },
     "TAGS": {
@@ -144,8 +147,8 @@
     },
     "TIME_FORMAT": {
       "LABEL": "Time format",
-      "T12_HOUR_LABEL": "12 hour",
-      "T24_HOUR_LABEL": "24 hour"
+      "T12_HOUR_LABEL": "AM/PM",
+      "T24_HOUR_LABEL": "24-hour time"
     },
     "SHOW_LOCAL_TIME": {
       "LABEL": "Show local time",

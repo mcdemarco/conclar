@@ -1,9 +1,9 @@
 {
-  "BASE_PATH": "/",
+  "BASE_PATH": "/still/",
   "APP_ID": "B60",
   "APP_TITLE": "Boskone 60 Program Guide",
-  "PROGRAM_DATA_URL": "data/both.json",
-  "PEOPLE_DATA_URL": "data/both.json",
+  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/both.json",
+  "PEOPLE_DATA_URL": "//schedule.boskone.org/data/both.json",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
@@ -12,7 +12,7 @@
     }
   },
   "TIMEZONE": "America/New_York",
-  "INTERACTIVE": true,
+  "INTERACTIVE": false,
   "HEADER": {
     "IMG_SRC": "",
     "IMG_ALT_TEXT": "",

@@ -2,13 +2,13 @@
   "BASE_PATH": "/",
   "APP_ID": "B60",
   "APP_TITLE": "Boskone 60 Program Guide",
-  "PROGRAM_DATA_URL": "both.json",
-  "PEOPLE_DATA_URL": "both.json",
+  "PROGRAM_DATA_URL": "data/both.json",
+  "PEOPLE_DATA_URL": "data/both.json",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "http://example.com"
+      "Origin": "https://schedule.boskone.org"
     }
   },
   "TIMEZONE": "America/New_York",

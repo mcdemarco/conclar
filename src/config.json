@@ -41,7 +41,7 @@
     "SEPARATE": [
       { "PREFIX": "theme", "PLACEHOLDER": "Select themes", "SEARCHABLE": false, "HIDE": false },
       { "PREFIX": "tag", "PLACEHOLDER": "Select tags", "SEARCHABLE": false, "HIDE": false },
-      { "PREFIX": "track", "PLACEHOLDER": "Select track", "SEARCHABLE": false, "HIDE": true },
+      { "PREFIX": "track", "PLACEHOLDER": "Select track", "SEARCHABLE": false, "HIDE": false },
       { "PREFIX": "type", "PLACEHOLDER": "Select types", "SEARCHABLE": false, "HIDE": false },
       { "PREFIX": "Viewing type", "PLACEHOLDER": "Viewing types", "SEARCHABLE": false, "HIDE": false }
     ],

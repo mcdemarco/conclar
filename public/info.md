@@ -1,169 +1,201 @@
-**Fixed Function Times & Locations**
+**Areas, Hours & Locations**
 
-*All convention activities are located to the left side (ie, closest to the ocean) as you enter hotel lobby from the front door.*
+*All convention activities are located to the left side as you enter the hotel lobby from the front door.*
 
 Some of this information is available in grid form at the [main Boskone site](https://boskone.org/program/hours-events/).
 
-**Access** (see Information)
+**Access** (see Information) [Access](https://boskone.org/about/access/)
 
-**Art Show** (Galleria/Lower Level)
+**Anime** (see Video)
+
+**Art Show** (Galleria/Lower Level—Right Back)
 
 *  **Art Viewing Hours**
 
-    *  Fri 6:00pm–Midnight
-    *  Sat 10:00am–9:00pm
-    *  Sun 10:00am–Noon, 1:00pm–3:00pm
+    *  Fri 6:00pm – Midnight
+    *  Sat 10:00am – 9:00pm
+    *  Sun 10:00am – Noon, 1:00pm – 3:00pm
 
 
 *  **Quick Sale Hours**
 
-    *  Sat Noon–9:00pm
-    *  Sun 10:00am–Noon.
+    *  Sat Noon – 9:00pm
+    *  Sun 10:00am – 12:00 noon
 
 
 *  **Bidding Closeout**
 
-    *  Sun Noon.
-
+    *  Sun 12:00 noon
 
 *  **Auction**
 
-    *  Sun 12:30pm (if needed).
-
+    *  Sun 12:30pm (if needed)
 
 *  **Sales/Checkout/Art Pickup**
 
-    *  Sun 1:00pm–3:00pm.
+    *  Sun 1:00pm – 3:00pm
 
-**Autographing** (Galleria―Dead Center)
+**Autographing** (Galleria/Lower Level—Dead Center)
 
-*  Fri 5:00pm–5:50pm
-*  Sat 11:00am–5:50pm
-*  Sun 10:00am–1:50pm
+*  Fri 5:00pm – 6:00pm
+*  Sat 10:00am – 5:30pm
+*  Sun 10:00am – 2:00pm
 
-**Children\'s Program** (see DragonsLair)
+**Children's Program** (see Dragonslair)
 
 **Coat Check** (see NarniaCon)
 
-**Con Office** (Galleria―Middle Back)
+**Con Office** (Galleria/Lower Level—Middle Back)
 
-**Con Suite** (Galleria/Lower Level right)
+**Con Suite** (Galleria/Lower Level—Right)
 
-*  Fri 4:00pm–Midnight
-*  Sat 10:00am–Midnight
-*  Sun 10:00am–3:00pm
+*  Fri 4:00pm – Midnight
+*  Sat 10:00am – Midnight
+*  Sun 10:00am – 3:00pm
 
 **Dead Dog Party** (Staff Den)
 
 *  Sun after teardown
 
-**Dealers Room** (Galleria―Lower Level)
+**Dealers Room** (Galleria/Lower Level—Left)
 
-*  Fri 5:00pm–8:00pm
-*  Sat 10:00am–6:00pm
-*  Sun 10:00am–3:00pm
+*  Fri 5:00pm – 8:00pm
+*  Sat 10:00am – 6:00pm
+*  Sun 10:00am – 3:00pm
 
-**Discussion Groups** (Galleria―Far Right Corner)
+**Discussion Groups** (Galleria/Lower Level—Right Back Corner)
 
-**DragonsLair** (Galleria―Left of Entrance)
+**Dragonslair** (Galleria/Lower Level—Left of Entrance)
 
-*  Fri 6:00pm–9:00pm
-*  Sat 9am–Noon, 1pm–5pm, 7pm–9pm
-*  Sun 9:00am–2:00pm
-*  *Parents, please pick up your children for meals.*
+*  Fri 6:00pm – 8:00pm
+*  Sat 10am – 8pm
+*  Sun 10:00am – 2:00pm
 
-**Fan Tables** (Inside Galleria Near Entrance/Lower Level)
+**Fan Tables** (Galleria/Lower Level—Right Middle)
 
-*  Fri 3:00pm–6:00pm
-*  Sat 11:00am–6:00pm
-*  Sun 11:00am–3:00pm
+*  Fri 5:00pm – 8:00pm
+*  Sat 10:00am – 6:00pm
+*  Sun 10:00am – 3:00pm
 
-**Filk/Music** (Carlton/Harbor Level)
+**Filk/Music** (Harbor/Upper Level—Carlton)
 
-*  Fri 5:00pm–1:30am+
-*  Sat 11:00am–1:30am+loop
-*  Sun 11:30am–5:30pm+
+*  Fri 4:00pm – 1:30am+
+*  Sat 10:00am – 1:30am+
+*  Sun 10:00am – 5:30pm+
 
-**Flyer Racks/Freebies** (Galleria Foyer)
+**Flyer Racks/Freebies** (Galleria/Lower Level—Foyer)
 
-**Gaming Harbor III** (2nd floor)
+**Gaming** (Harbor/Upper Level—Harbor 3)
 
-*  Fri 2:00pm–Midnight
-*  Sat 10:00am–Midnight
-*  Sun 10:00am–3:00pm
+*  Fri 2:00pm – Midnight
+*  Sat 10:00am – Midnight
+*  Sun 10:00am – 3:00pm
 
-**Garage Elevators** (Near escalators & Marina)
+**Garage Elevators** (Lobby Level—Near escalators)
 
-*  *also HA elevator to function space*
+>  *also handicap accessible elevator to Upper Level and Lower Level function space*
 
-***Helmuth*** (Harbor Foyer―Upper Level)
+***Helmuth*—At Con Newletter** (Harbor/Upper Level—Foyer)
 
-*  Additional distribution from Coat Check & Flyer Racks
+>  Additional distribution from Coat Check & Flyer Racks
 
 **Hotel Information**
 
-*  Westin Main Number: 617-532-4600
-*  Omni Boston Hotel: 617-476-6664
-*  Renaissance Main Number: 617-338-4111
+>  Westin Boston Seaport District Hotel, Main Number: 617-532-4600
 
-**Information** (Harbor Foyer―Upper Level)
+**Information** (Harbor/Upper Level—Foyer)
+ 
+> *also handling Access, and Volunteers*
 
-*  *also handling Access, and Volunteers*
-*  Fri 3:00pm–9:00pm
-*  Sat 10:00am–9:00pm
-*  Sun 10:00am–3:00pm
+*  Fri 3:00pm – 9:00pm
+*  Sat 10:00am – 9:00pm
+*  Sun 10:00am – 3:00pm
 
-**Kafeeklatsches** (Con Suite near Windows)
+**Kaffeeklatsches** (Galeria/Lower Level—Right of Entrance)
 
-*  *Sign-up in Program y (Upper Level)*
-*  \[\[NO KKs Friday\]\]
-*  Saturday–signups start Fri 3pm
-*  Sunday–signups start Sat noon
+>  *Sign-up at Program Ops(Upper Level)*
 
-**Kids** (see DragonsLair)
+*  (No KKs Friday)
+*  Saturday – signups start Fri 3pm
+*  Sunday – signups start Sat 12 noon
 
-**Makers\' Space** (Galleria―Far Right Corner)
+> There are no virtual kaffeeklatsches; only available in-person. You must be present to sign up and you may only sign up for yourself.
 
-**Meetup** (Con Suite next to Kaffeeklastches)
+**Kids Activities** (see Dragonslair)
 
-**NarniaCon** (Marina Foyer―Lobby Level)
+**Meetup Space** (Galeria/Lower Level—Right Back Corner)
 
-*  Fri 1:30pm–12:30am
-*  Sat 9:00am–12:30am
-*  Sun 9:00am–4:00pm
+**NarniaCon—Coat Check** (Marina Foyer—Lobby Level)
+
+*  Fri 1:30pm – 12:30am
+*  Sat 9:00am – 12:30am
+*  Sun 9:00am – 4:00pm
 
 **Newsletter** (see *Helmuth*)
 
-**Party Board** (Galleria Foyer―Near Escalators)
+**Party Board** (Galleria/Lower Level—Foyer, Near Escalators)
 
-**Program Ops** (Harbor Foyer―Upper Level)
+**Program Ops** (Harbor/Upper Level—Foyer)
 
-**Programming Hours**
+**Programming Hours** (In-person)
 
-*  Fri 2:00pm–11:30pm
-*  Sat 8:00am–10:55pm
-*  Sun 8:00am–3:00pm Sun (Filk meeting/dead dog filk until 6:30pm
+*  Fri 2:30pm – 9:30pm
+*  Sat 10:00am – 11:00pm
+*  Sun 10:00am – 3:30pm (Debrief meeting 2:30p – 3:30p; Filk meeting/dead dog filk until 6:30pm)
+
+**Programming Hours** (On-line)
+
+*  Fri 2:30pm – 10:30pm
+*  Sat 10:00am – 11:00pm
+*  Sun 10:00am – 2:00pm (Debrief meeting 2:30p – 3:30p)
 
 **Programming Locations**
 
-*  Marina Ballrooms I & II (Lobby Level)
-*  Harbor Ballrooms I & II, (Upper Level)
-*  Burroughs, Carlton, Griffin, Lewis Readings (Griffin―Upper Level)
+>  Marina Ballrooms 1, 2, 3, & 4 (Lobby Level)
 
-**Registration \[Con\]** (Harbor Foyer)
+>  Harbor Ballrooms 1, 2, & 3 (Upper Level)
 
-*  *Photo ID, Vaccination Card & Mask Required!*
-*  Fri 1:00pm–8:30pm
-*  Sat 9:00am–6:00pm
-*  Sun 9:00am–Noon
+>  Burroughs, Carlton (Filk), Griffin, (Readings), Lewis (Anime/Video) (Harbor/Upper Level)
 
-**Restaurants** (See the [Boskone Restaurant Guide](https://boskone.org/venue/food/))
+**Registration [At-Con]** (Harbor/Upper Level—Foyer)
+
+> *Photo ID, Vaccination Card & Mask Required!*
+
+*  Fri 1:00pm – 8:30pm
+*  Sat 9:00am – 6:00pm
+*  Sun 9:00am – Noon
+
+**Restaurants** (Also see the [Boskone Restaurant Guide](https://boskone.org/venue/food/))—(Lobby Level)
+
+> *See hours on [Westin website](https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/dining/)*
+
+>Starbucks (Lobby Level—Right)
+
+>Birch Bar (Lobby Level—Center)
+
+>MJ O'Connors (Lobby Level—Left)
+
+>Sauciety (Lobby Level—Right)
+
+**Tours** (Galleria/Lower Level—Right Back Corner, MeetUp 2)
+
+**Video** (Harbor/Upper Level—Lewis)
+
+*  Fri 3:30pm – 1:30am
+*  Sat 10:00am – 1:30am
+*  Sun 10:00am – 3:30pm
 
 **Virtual Program**
 
-*  Marina Ballrooms III & IV (Lobby Level)
-*  Harbor Ballroom I (Upper Level)
+*  There will be two rooms of online only programming available to
+    members to watch on their own devices. These items will include the
+    word VIRTUAL in the session title.
 
-**Volunteers** (go to Info Desk)
+*  All activities taking place in Harbor Ballroom 1 (Harbor/Upper
+    Level) will be streamed to online members and available in-person to
+    onsite members. These items will include the word HYBRID in the
+    session title.
+
+**Volunteers** (See "Information" above )
 
 **Workshops** (signup in Program Ops)

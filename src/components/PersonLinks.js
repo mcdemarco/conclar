@@ -13,14 +13,15 @@ import {
 
 
 const PersonLinks = ({ person }) => {
-  const regex = /^(?:http(s)?:\/\/)[\w.-]+(?:\.[\w.-]+)+[\w\-._~:/?#[\]@!$&'()*+,;=.]+$/;
-  /**
-   * Take a link type and return an appropriate Icon.
-   * @param {string} type 
-   * @returns {string}
-   */
-  const getLinkIcon = (type) => {
-    switch (type) {
+    const regex = /^(?:http(s)?:\/\/)?[\w.-]+(?:\.[\w.-]+)+[\w\-._~:/?#[\]@!$&'()*+,;=.]+$/;
+    const regex2 = /^(?:http(s)?:)?\/\/[\w.-]+(?:\.[\w.-]+)+[\w\-._~:/?#[\]@!$&'()*+,;=.]+$/;
+    /**
+     * Take a link type and return an appropriate Icon.
+     * @param {string} type 
+     * @returns {string}
+     */
+    const getLinkIcon = (type) => {
+	switch (type) {
       case "twitter":
         return <FaTwitter />;
       case "fb":
@@ -58,10 +59,11 @@ const PersonLinks = ({ person }) => {
     if (!person.links[type].match(regex)) continue;
     // Look up the correct icon.
     const icon = getLinkIcon(type);
+    const correctedLink = person.links[type].match(regex2) ? person.links[type] : "//" + person.links[type];
     // Add link HTML to array.
     links.push(
       <span className="link" key={type}>
-        <a href={person.links[type]} target="_blank" rel="noreferrer">
+        <a href={correctedLink} target="_blank" rel="noreferrer">
           {icon}
         </a>
         {" "}

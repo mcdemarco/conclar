@@ -1,24 +1,24 @@
 {
   "BASE_PATH": "/",
-  "APP_ID": "O2021",
-  "APP_TITLE": "ConClár Programme Guide",
-  "PROGRAM_DATA_URL": "/schedule.jsonp",
-  "PEOPLE_DATA_URL": "/participants.jsonp",
+  "APP_ID": "B60",
+  "APP_TITLE": "Boskone 60 Program Guide",
+  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/both.json",
+  "PEOPLE_DATA_URL": "//schedule.boskone.org/data/both.json",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "http://example.com"
+      "Origin": "https://schedule.boskone.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "http://example.com"
+      "Origin": "https://schedule.boskone.org"
     }
   },
-  "TIMEZONE": "America/Chicago",
-  "TIMEZONECODE": "CDT",
+  "TIMEZONE": "America/New_York",
+  "TIMEZONECODE": "EST",
   "INTERACTIVE": true,
   "HEADER": {
     "IMG_SRC": "",
@@ -26,12 +26,12 @@
     "LINEFEED_AFTER_URL": false
   },
   "NAVIGATION": {
-    "PROGRAM": "Programme",
+    "PROGRAM": "Program",
     "PEOPLE": "People",
-    "MYSCHEDULE": "My Schedule",
-    "INFO": "Information",
+    "MYSCHEDULE": "My Con",
+    "INFO": "Info",
     "SETTINGS": "Settings",
-    "EXTRA": [{ "LABEL": "Octocon Home", "URL": "https://octocon.com" }]
+    "EXTRA": []
   },
   "LOCATIONS": {
     "SEARCHABLE": false
@@ -43,11 +43,11 @@
   },
   "PROGRAM": {
     "LIMIT": {
-      "SHOW": true,
+      "SHOW": false,
       "LABEL": "Maximum items displayed",
       "OPTIONS": [50, 100, 250, 500, 1000],
       "ALL_LABEL": "Show all",
-      "DEFAULT": 100,
+      "DEFAULT": 500,
       "SHOW_MORE": {
         "LABEL": "Show more items",
         "NO_MORE": "No more items to display",
@@ -58,7 +58,7 @@
       "SEARCH_LABEL": "Search title, desc, or people"
     },
     "MY_SCHEDULE": {
-      "TITLE": "My Schedule",
+      "TITLE": "My Con",
       "SHARE": {
         "LABEL": "Share program selection",
         "DESCRIPTION": "Copy and paste this link to share your selections with other devices. Or point your camera at the QR code below.",
@@ -70,7 +70,7 @@
     },
     "SHARED": {
       "TITLE": "Shared Program Items",
-      "DESCRIPTION": "The following programme items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
+      "DESCRIPTION": "The following program items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
       "BUTTON_LABEL": "Add all to My Schedule"
     }
   },
@@ -79,18 +79,19 @@
     "SEARCHABLE": false,
     "HIDE": false,
     "SEPARATE": [
-      { "PREFIX": "type", "PLACEHOLDER": "Select type", "SEARCHABLE": true, "HIDE": false },
-      { "PREFIX": "test", "PLACEHOLDER": "Select test", "SEARCHABLE": true, "HIDE": false }
+      { "PREFIX": "theme", "PLACEHOLDER": "Select themes", "SEARCHABLE": false, "HIDE": false },
+      { "PREFIX": "tag", "PLACEHOLDER": "Select tags", "SEARCHABLE": false, "HIDE": false },
+      { "PREFIX": "track", "PLACEHOLDER": "Select track", "SEARCHABLE": false, "HIDE": false },
+      { "PREFIX": "type", "PLACEHOLDER": "Select types", "SEARCHABLE": false, "HIDE": false },
+      { "PREFIX": "Viewing type", "PLACEHOLDER": "Viewing types", "SEARCHABLE": false, "HIDE": false }
     ],
-    "FORMAT_AS_TAG": false,
+    "FORMAT_AS_TAG": true,
     "DAY_TAG": {
       "GENERATE": true,
       "DAYS": {
-        "4": "Thursday",
         "5": "Friday",
         "6": "Saturday",
-        "7": "Sunday",
-        "1": "Monday"
+        "7": "Sunday"
       },
       "PLACEHOLDER": "Select days",
       "SEARCHABLE": true,
@@ -139,15 +140,15 @@
     "FAILURE": "Unable to convert to local time."
   },
   "TIME_FORMAT": {
-    "DEFAULT_12HR": false,
+    "DEFAULT_12HR": true,
     "SHOW_CHECKBOX": true,
-    "CHECKBOX_LABEL": "Show 12 hour time",
+    "CHECKBOX_LABEL": "AM/PM",
     "AM": "AM",
     "PM": "PM"
   },
   "DURATION": {
     "SHOW_DURATION": true,
-    "DURATION_LABEL": "Duration: @mins mins"
+    "DURATION_LABEL": " (@mins mins)"
   },
   "SHOW_PAST_ITEMS": {
     "SHOW_CHECKBOX": true,
@@ -166,7 +167,7 @@
       "DEFAULT_IMAGE": "head.svg"
     },
     "SORT": {
-      "SHOW_CHECKBOX": true,
+      "SHOW_CHECKBOX": false,
       "CHECKBOX_LABEL": "Sort by full name"
     },
     "TAGS": {
@@ -198,8 +199,8 @@
     },
     "TIME_FORMAT": {
       "LABEL": "Time format",
-      "T12_HOUR_LABEL": "12 hour",
-      "T24_HOUR_LABEL": "24 hour"
+      "T12_HOUR_LABEL": "AM/PM",
+      "T24_HOUR_LABEL": "24-hour time"
     },
     "SHOW_LOCAL_TIME": {
       "LABEL": "Show local time",

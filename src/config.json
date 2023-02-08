@@ -2,6 +2,7 @@
   "BASE_PATH": "/",
   "APP_ID": "B60",
   "APP_TITLE": "Boskone 60 Program Guide",
+  "APP_DESCRIPTION": "The online schedule for Boskone 60, February 17-19, 2023",
   "PROGRAM_DATA_URL": "//schedule.boskone.org/data/both.json",
   "PEOPLE_DATA_URL": "//schedule.boskone.org/data/both.json",
   "FETCH_OPTIONS": {

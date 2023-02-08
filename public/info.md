@@ -1,4 +1,4 @@
-**Areas, Hours & Locations**
+## Areas, Hours & Locations
 
 *All convention activities are located to the left side as you enter the hotel lobby from the front door.*
 
@@ -73,9 +73,9 @@ Some of this information is available in grid form at the [main Boskone site](ht
 
 **Fan Tables** (Galleria/Lower Level—Right Middle)
 
-*  Fri 5:00pm – 8:00pm
-*  Sat 10:00am – 6:00pm
-*  Sun 10:00am – 3:00pm
+*  Fri 4:00pm – 6:00pm
+*  Sat 11:00am – 6:00pm
+*  Sun 11:00am – 3:00pm
 
 **Filk/Music** (Harbor/Upper Level—Carlton)
 

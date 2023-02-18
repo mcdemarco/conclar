@@ -1,8 +1,12 @@
 
 const ItemLink = ({ name, link, text }) => {
-  return <div className={name}>
+	if (name === "item-links-recording")
+		return <div className={name}>
+    <a href={link} target="_blank">{text}</a>
+		</div>;
+	return <div className={name}>
     <a href={link}>{text}</a>
-  </div>;
+		</div>;
 };
 
 export default ItemLink;

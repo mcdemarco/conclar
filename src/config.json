@@ -1,8 +1,8 @@
 {
-  "BASE_PATH": "/",
-  "APP_ID": "B61",
+  "BASE_PATH": "/still/",
+  "APP_ID": "B61S",
   "APP_TITLE": "Boskone 61 Program Guide",
-  "APP_DESCRIPTION": "The online schedule for Boskone 61, February 9-11, 2024",
+  "APP_DESCRIPTION": "The non-interactive schedule for Boskone 61, February 9-11, 2024",
   "PROGRAM_DATA_URL": "//schedule.boskone.org/data/both.json",
   "PEOPLE_DATA_URL": "//schedule.boskone.org/data/both.json",
   "FETCH_OPTIONS": {
@@ -20,7 +20,7 @@
   },
   "TIMEZONE": "America/New_York",
   "TIMEZONECODE": "EST",
-  "INTERACTIVE": true,
+  "INTERACTIVE": false,
   "HEADER": {
     "IMG_SRC": "",
     "IMG_ALT_TEXT": "",

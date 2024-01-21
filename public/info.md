@@ -1,3 +1,5 @@
+*For the interactive version of this schedule, [click here](https://schedule.boskone.org).*
+
 ## Areas, Hours & Locations
 
 *All convention activities are located to the left side as you enter the hotel lobby from the front door.*
@@ -187,14 +189,9 @@ Some of this information is available in grid form at the [main Boskone site](ht
 
 **Virtual Program**
 
-*  There will be two rooms of online only programming available to
-    members to watch on their own devices. These items will include the
-    word VIRTUAL in the session title.
-
 *  All activities taking place in Harbor Ballroom 1 (Harbor/Upper
     Level) will be streamed to online members and available in-person to
-    onsite members. These items will include the word HYBRID in the
-    session title.
+    onsite members.
 
 **Volunteers** (See "Information" above )
 

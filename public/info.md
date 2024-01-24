@@ -2,7 +2,7 @@
 
 *All convention activities are located to the left side as you enter the hotel lobby from the front door.  See the main Boskone site for [maps](https://boskone.org/venue/maps/).*
 
-All times are Eastern Standard Time (UTC -0500).
+The hours listed below are for Eastern Standard Time (UTC -0500).
 
 Some of this information is also available in grid form at the [main Boskone site](https://boskone.org/program/hours-events/).
 

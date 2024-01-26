@@ -1,6 +1,6 @@
 ## Areas, Hours & Locations
 
-*All convention activities are located to the left side as you enter the hotel lobby from the front door.  See the main Boskone site for [maps](https://boskone.org/venue/maps/).*
+*All convention activities are located to the left as you enter the hotel lobby from the front entrance, except for the Con Suite, which is in a hotel room (1645) this year.  See the main Boskone site for [maps](https://boskone.org/venue/maps/).*
 
 The hours listed below are for Eastern Standard Time (UTC -0500).
 
@@ -72,9 +72,9 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Dance and Movement** (Lobby Level—Marina 1)
 
-*  Fri 8:00pm – 12:00 midnight
-*  Sat 9:00am – 11:00pm
-*  Sun 9:00am – ??
+*  Fri 2:30pm – 11:00pm
+*  Sat 9:00am – 11:30pm
+*  Sun 9:00am – 1:00pm
 
 **Dead Dog Party** (Con Suite, Room 1645)
 
@@ -110,7 +110,11 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 *  Fri 4:00pm – 1:30am+
 *  Sat 10:00am – 1:30am+
-*  Sun 10:00am – 5:30pm+
+*  Sun 10:00am – 5:30pm (including Dead Dog Filk, may reconvene after dinner break)
+
+**First Aid** (In case of emergency dial 911)
+
+> Dial '0' from any hotel phone and say 'I have a medical situation'.
 
 **Flyer Racks/Freebies** (Galleria/Lower Level—Foyer)
 
@@ -147,8 +151,8 @@ Some of this information is also available in grid form at the [main Boskone sit
 >  *Sign-up at Program Ops (Upper Level)*
 
 *  Friday — none scheduled
-*  Saturday – signups start Fri 3pm
-*  Sunday – signups start Sat 12 noon
+*  Saturday – signups start Fri 7pm
+*  Sunday – signups start Sat 10am
 
 > No virtual Kaffeeklatsches (in-person only)
 
@@ -160,7 +164,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Lost and Found** (Hotel Front Desk)
 
-> For lost badges, go to Registration
+> For lost badges, go to Registration.
 
 **Meetup Space** (Galleria/Lower Level—Right Back Corner)
 
@@ -175,8 +179,6 @@ Some of this information is also available in grid form at the [main Boskone sit
 **Newsletter** (see *Helmuth*)
 
 **Office** (Galleria/Lower Level—Middle Back)
-
-> Con office
 
 **Parking** (see the [main Boskone site](https://boskone.org/venue/parking-and-directions/))
 
@@ -199,7 +201,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 *  Fri 2:30pm – 11:30pm
 *  Sat 10:00am – midnight
 *  Sun 10:00am – 3:30pm (Debrief/feedback 2:30pm – 3:30pm)
-*  Sun Filk (Meeting/Dead Dog Filk until 6:30pm)
+*  Sun Dead Dog Filk until 5:30pm
 
 **Programming Locations**
 
@@ -221,7 +223,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Restaurants** (Lobby Level)
 
-> *See hours on [Westin website](https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/dining/)*
+> *See hours on the [Westin website](https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/dining/)*
 
 * Starbucks (Lobby Level—Right)
 * Birch Bar (Lobby Level—Center)
@@ -236,9 +238,9 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Video** (See *Anime*)
 
-**Virtual Program**
+**Virtual Program** (Harbor/Upper Level—Harbor I)
 
-*  All activities taking place in Harbor Ballroom I (Harbor/Upper Level) will be streamed to online members, available in-person to onsite members, and recorded for later viewing.
+*  All activities taking place in Harbor Ballroom I will be streamed to online members, available in-person to onsite members, and recorded for later viewing.
 
 **Volunteers** (see Information)
 

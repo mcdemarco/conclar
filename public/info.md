@@ -1,16 +1,22 @@
-*For the interactive version of this schedule, [click here](https://schedule.boskone.org).*
-
 ## Areas, Hours & Locations
 
-*All convention activities are located to the left side as you enter the hotel lobby from the front door.*
+*All convention activities are located to the left as you enter the hotel lobby from the front entrance, except for the Con Suite, which is in a hotel room (1645) this year.  See the main Boskone site for [maps](https://boskone.org/venue/maps/).*
 
-Some of this information is available in grid form at the [main Boskone site](https://boskone.org/program/hours-events/).
+The hours listed below are for Eastern Standard Time (UTC -0500).
 
-**Access** (see Information) [Access](https://boskone.org/about/access/)
+Some of this information is also available in grid form at the [main Boskone site](https://boskone.org/program/hours-events/).
 
-**Anime** (see Video)
+**Access** (see Information)
 
-**Art Show** (Galleria/Lower Level—Right Back)
+> Elevators accessing hotel function space are in an alcove near the entrance to the downward escalators.
+
+**Anime/Video Room** (Harbor/Upper Level—Lewis)
+
+*  Fri 3:30pm – 1:30am
+*  Sat 10:00am – 1:30am
+*  Sun 10:00am – 3:30pm
+
+**Art Show** (Galleria/Lower Level—Back Right)
 
 *  **Art Viewing Hours**
 
@@ -19,7 +25,7 @@ Some of this information is available in grid form at the [main Boskone site](ht
     *  Sun 10:00am – Noon, 1:00pm – 3:00pm
 
 
-*  **Quick Sale Hours**
+*  **Quick Sale Hours** (Sat/Sun Only)
 
     *  Sat Noon – 9:00pm
     *  Sun 10:00am – 12:00 noon
@@ -29,51 +35,72 @@ Some of this information is available in grid form at the [main Boskone site](ht
 
     *  Sun 12:00 noon
 
-*  **Auction**
+*  **Auction** (Art Show entrance)
 
     *  Sun 12:30pm (if needed)
 
-*  **Sales/Checkout/Art Pickup**
+*  **Sales/Art Pickup**
 
     *  Sun 1:00pm – 3:00pm
 
+*  **Artist Checkout**
+
+    *  Sun 1:00pm – 3:00pm
+	
+**Authors' Alley** (Galleria/Lower Level—Left of Entrance)
+
 **Autographing** (Galleria/Lower Level—Dead Center)
 
-*  Fri 5:00pm – 6:00pm
-*  Sat 10:00am – 5:30pm
+*  Sat 10:00am – 7:00pm
 *  Sun 10:00am – 2:00pm
 
 **Children's Program** (see Dragonslair)
 
 **Coat Check** (see NarniaCon)
 
+**Code of Conduct/COVID Policies**
+
+> All policies are available at the [main Boskone site](https://boskone.org/about/policies/)
+
 **Con Office** (Galleria/Lower Level—Middle Back)
 
-**Con Suite** (Galleria/Lower Level—Right)
+**Con Suite** (Hotel/Room 1645)
 
-*  Fri 4:00pm – Midnight
+*  Fri 6:00pm – Midnight
 *  Sat 10:00am – Midnight
 *  Sun 10:00am – 3:00pm
 
-**Dead Dog Party** (Staff Den)
+**Dance and Movement** (Lobby Level—Marina 1)
 
-*  Sun after teardown
+*  Fri 2:30pm – 11:00pm
+*  Sat 9:00am – 11:30pm
+*  Sun 9:00am – 1:00pm
+
+**Dead Dog Party** (Con Suite, Room 1645)
+
+*  Sunday after teardown
 
 **Dealers Room** (Galleria/Lower Level—Left)
 
-*  Fri 5:00pm – 8:00pm
-*  Sat 10:00am – 6:00pm
+*  Fri 4:00pm – 8:00pm
+*  Sat 10:00am – 7:00pm
 *  Sun 10:00am – 3:00pm
+
+**Discord**
+
+> Check your email for access instructions.
+
+> For Discord help, see the experts at Narniacon.
 
 **Discussion Groups** (Galleria/Lower Level—Right Back Corner)
 
 **Dragonslair** (Galleria/Lower Level—Left of Entrance)
 
 *  Fri 6:00pm – 8:00pm
-*  Sat 10am – 8pm
+*  Sat 10:00am – 8:00pm
 *  Sun 10:00am – 2:00pm
 
-**Fan Tables** (Galleria/Lower Level—Right Middle)
+**Fan Tables** (Galleria/Lower Level—Right of Entrance)
 
 *  Fri 4:00pm – 6:00pm
 *  Sat 11:00am – 6:00pm
@@ -83,51 +110,71 @@ Some of this information is available in grid form at the [main Boskone site](ht
 
 *  Fri 4:00pm – 1:30am+
 *  Sat 10:00am – 1:30am+
-*  Sun 10:00am – 5:30pm+
+*  Sun 10:00am – 5:30pm (including Dead Dog Filk, may reconvene after dinner break)
+
+**First Aid** (In case of emergency dial 911)
+
+> Dial '0' from any hotel phone and say 'I have a medical situation'.
 
 **Flyer Racks/Freebies** (Galleria/Lower Level—Foyer)
 
-**Gaming** (Harbor/Upper Level—Harbor 3)
+**Free Hours**
 
-*  Fri 2:00pm – Midnight
-*  Sat 10:00am – Midnight
-*  Sun 10:00am – 3:00pm
+*  Fri 2:30pm – 6:30pm
+
+**Gaming** (Harbor/Upper Level—Lewis)
+
+*  Fri 4:00pm – 3:00am
+*  Sat 8:30am – 3:00am
+*  Sun 8:30am – 3:00pm
 
 **Garage Elevators** (Lobby Level—Near escalators)
 
 >  *also handicap accessible elevator to Upper Level and Lower Level function space*
 
-***Helmuth*—At Con Newletter** (Harbor/Upper Level—Foyer)
+***Helmuth*—At Con Newletter** (Galleria/Lower Level—Con Office)
 
->  Additional distribution from Coat Check & Flyer Racks
+>  Distribution from Coat Check, Galleria Entrance, Harbor Foyer, and Flyer Racks
 
 **Hotel Information**
 
->  Westin Boston Seaport District Hotel, Main Number: 617-532-4600
+*  Westin Boston Seaport District Main #: 617-532-4600
+* Omni Boston Hotel: 617-476-6664
+* Renaissance Hotel Main #: 617-338-4111
 
 **Information** (Harbor/Upper Level—Foyer)
  
-> *also handling Access, and Volunteers*
+> *also handling [Access](https://boskone.org/about/access/) and Volunteers*
 
 *  Fri 3:00pm – 9:00pm
 *  Sat 10:00am – 9:00pm
 *  Sun 10:00am – 3:00pm
 
-**Kaffeeklatsches** (Galeria/Lower Level—Right of Entrance)
+**Kaffeeklatsches** (Galleria/Lower Level—Far right along windows)
 
->  *Sign-up at Program Ops(Upper Level)*
+>  *Sign-up at Program Ops (Upper Level)*
 
-*  (No KKs Friday)
-*  Saturday – signups start Fri 3pm
-*  Sunday – signups start Sat 12 noon
+*  Friday — none scheduled
+*  Saturday – signups Fri 7pm – 9pm (also Sat 10am+ if spaces remain)
+*  Sunday – signups start Sat 10am
 
-> There are no virtual kaffeeklatsches; only available in-person. You must be present to sign up and you may only sign up for yourself.
+> No virtual Kaffeeklatsches (in-person only)
+
+> You must be present to sign up.
+
+> You may only sign up for yourself.
 
 **Kids Activities** (see Dragonslair)
 
-**Meetup Space** (Galeria/Lower Level—Right Back Corner)
+**Lost and Found** (Hotel Front Desk)
 
-**NarniaCon—Coat Check** (Marina Foyer—Lobby Level)
+> For lost badges, go to Registration.
+
+**Meetup Space** (Galleria/Lower Level—Right Back Corner)
+
+> Sign up in Program Ops (Harbor/Upper Level—Foyer)
+
+**NarniaCon/Coat Check** (Lobby Level—Marina Foyer)
 
 *  Fri 1:30pm – 12:30am
 *  Sat 9:00am – 12:30am
@@ -135,64 +182,72 @@ Some of this information is available in grid form at the [main Boskone site](ht
 
 **Newsletter** (see *Helmuth*)
 
+**Office** (Galleria/Lower Level—Middle Back)
+
+**Parking** (see the [main Boskone site](https://boskone.org/venue/parking-and-directions/))
+
 **Party Board** (Galleria/Lower Level—Foyer, Near Escalators)
+
+**Pool and Gym** (Mezzanine/Hotel Room Side – 3W)
+
+* Daily 5:00am – 10:00pm
 
 **Program Ops** (Harbor/Upper Level—Foyer)
 
-**Programming Hours** (In-person)
+> Program Participant Check-In
 
-*  Fri 2:30pm – 9:30pm
-*  Sat 10:00am – 11:00pm
-*  Sun 10:00am – 3:30pm (Debrief meeting 2:30p – 3:30p; Filk meeting/dead dog filk until 6:30pm)
+*  Fri 1:00pm – 8:00pm
+*  Sat 9:00am – 8:00pm
+*  Sun 9:00am – 2:30pm
 
-**Programming Hours** (On-line)
+**Programming Hours** (All Floors)
 
-*  Fri 2:30pm – 10:30pm
-*  Sat 10:00am – 11:00pm
-*  Sun 10:00am – 2:00pm (Debrief meeting 2:30p – 3:30p)
+*  Fri 2:30pm – 11:30pm
+*  Sat 10:00am – midnight
+*  Sun 10:00am – 3:30pm (Debrief/feedback 2:30pm – 3:30pm)
+*  Sun Dead Dog Filk until 5:30pm
 
 **Programming Locations**
 
->  Marina Ballrooms 1, 2, 3, & 4 (Lobby Level)
+>  Marina Ballrooms II, III, & IV (Lobby Level)
 
->  Harbor Ballrooms 1, 2, & 3 (Upper Level)
+>  Harbor Ballrooms I, II, & III (Upper Level)
 
->  Burroughs, Carlton (Filk), Griffin, (Readings), Lewis (Anime/Video) (Harbor/Upper Level)
+>  Burroughs, Carlton (Filk) (Harbor/Upper Level)
+
+**Readings** (Galleria/Lower Level—Far Right Front)
 
 **Registration [At-Con]** (Harbor/Upper Level—Foyer)
 
-> *Photo ID, Vaccination Card & Mask Required!*
+> *Photo ID & Mask Required!*
 
 *  Fri 1:00pm – 8:30pm
 *  Sat 9:00am – 6:00pm
 *  Sun 9:00am – Noon
 
-**Restaurants** (Also see the [Boskone Restaurant Guide](https://boskone.org/venue/food/))—(Lobby Level)
+**Restaurants** (Lobby Level)
 
-> *See hours on [Westin website](https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/dining/)*
+> *See hours on the [Westin website](https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/dining/)*
 
->Starbucks (Lobby Level—Right)
+* Starbucks (Lobby Level—Right)
+* Birch Bar (Lobby Level—Center)
+* MJ O'Connors (Lobby Level—Left)
+* Sauciety (Lobby Level—Right)
 
->Birch Bar (Lobby Level—Center)
+> Also see the [Boskone Restaurant Guide](https://boskone.org/venue/food/).
 
->MJ O'Connors (Lobby Level—Left)
+**Tours** (Galleria/Lower Level—Back Right Corner)
 
->Sauciety (Lobby Level—Right)
+> Meet near Art Show entrance.
 
-**Tours** (Galleria/Lower Level—Right Back Corner, MeetUp 2)
+**Video** (See *Anime*)
 
-**Video** (Harbor/Upper Level—Lewis)
+**Virtual Program** (Harbor/Upper Level—Harbor I)
 
-*  Fri 3:30pm – 1:30am
-*  Sat 10:00am – 1:30am
-*  Sun 10:00am – 3:30pm
+*  All activities taking place in Harbor Ballroom I will be streamed to online members, available in-person to onsite members, and recorded for later viewing.
 
-**Virtual Program**
+**Volunteers** (see Information)
 
-*  All activities taking place in Harbor Ballroom 1 (Harbor/Upper
-    Level) will be streamed to online members and available in-person to
-    onsite members.
+**Workshops** (Locations vary)
 
-**Volunteers** (See "Information" above )
-
-**Workshops** (signup in Program Ops)
+> No sign-up necessary for workshops.

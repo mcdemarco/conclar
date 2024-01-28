@@ -118,6 +118,10 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Flyer Racks/Freebies** (Galleria/Lower Level—Foyer)
 
+**Free Hours**
+
+*  Fri 2:30pm – 6:30pm
+
 **Gaming** (Harbor/Upper Level—Lewis)
 
 *  Fri 4:00pm – 3:00am
@@ -128,7 +132,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 >  *also handicap accessible elevator to Upper Level and Lower Level function space*
 
-***Helmuth*—At Con Newletter** (Harbor/Upper Level—Foyer)
+***Helmuth*—At Con Newletter** (Galleria/Lower Level—Con Office)
 
 >  Distribution from Coat Check, Galleria Entrance, Harbor Foyer, and Flyer Racks
 
@@ -151,7 +155,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 >  *Sign-up at Program Ops (Upper Level)*
 
 *  Friday — none scheduled
-*  Saturday – signups start Fri 7pm
+*  Saturday – signups Fri 7pm – 9pm (also Sat 10am+ if spaces remain)
 *  Sunday – signups start Sat 10am
 
 > No virtual Kaffeeklatsches (in-person only)

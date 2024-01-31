@@ -114,7 +114,7 @@
     "SPRING_CONFIG": { "duration": 100 }
   },
   "ITEM_DESCRIPTION": {
-    "PURIFY_OPTIONS": {}
+    "PURIFY_OPTIONS": {"ADD_ATTR": ["target"]}
   },
   "LINKS": [
     {"NAME": "signup",
@@ -184,7 +184,7 @@
     },
     "PERSON_HEADER": "Person: ",
     "BIO": {
-      "PURIFY_OPTIONS": {}
+      "PURIFY_OPTIONS": {"ADD_ATTR": ["target"]}
     }
   },
   "USELESS_CHECKBOX": {

@@ -12,9 +12,9 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Anime/Video Room** (Harbor/Upper Level—Lewis)
 
-*  Fri 3:30pm – 1:30am
-*  Sat 10:00am – 1:30am
-*  Sun 10:00am – 3:30pm
+*  Fri 3:30pm – 2:15am
+*  Sat 9:30am – 2:15am
+*  Sun 9:30am – 3:30pm
 
 **Art Show** (Galleria/Lower Level—Back Right)
 
@@ -187,6 +187,8 @@ Some of this information is also available in grid form at the [main Boskone sit
 **Parking** (see the [main Boskone site](https://boskone.org/venue/parking-and-directions/))
 
 **Party Board** (Galleria/Lower Level—Foyer, Near Escalators)
+
+> Party room block: 4th floor
 
 **Pool and Gym** (Mezzanine/Hotel Room Side – 3W)
 

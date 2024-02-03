@@ -6,9 +6,17 @@ The hours listed below are for Eastern Standard Time (UTC -0500).
 
 Some of this information is also available in grid form at the [main Boskone site](https://boskone.org/program/hours-events/).
 
-**Access** (see Information)
+**Access**
+
+> Large Print Pocket Programs will be available at Information.
 
 > Elevators accessing hotel function space are in an alcove near the entrance to the downward escalators.
+
+> Preferred Seating for vision, hearing, or mobility impaired individuals will be available in all program rooms.
+
+> Boskone will **not** have ASL Interpretation available.
+
+> For other issues see the [main Boskone website](https://boskone.org/about/access/), or go to the Con Office or Hotel Concierge.
 
 **Anime/Video Room** (Harbor/Upper Level—Lewis)
 
@@ -33,7 +41,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 *  **Bidding Closeout**
 
-    *  Sun 12:00 noon
+    *  Sunday Noon
 
 *  **Auction** (Art Show entrance)
 
@@ -54,6 +62,10 @@ Some of this information is also available in grid form at the [main Boskone sit
 *  Sat 10:00am – 7:00pm
 *  Sun 10:00am – 2:00pm
 
+**Book Giveaway Tables** (Harbor/Upper Level—Foyer)
+
+> Across from Registration.
+
 **Children's Program** (see Dragonslair)
 
 **Coat Check** (see NarniaCon)
@@ -72,9 +84,9 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Dance and Movement** (Lobby Level—Marina 1)
 
-*  Fri 2:30pm – 11:00pm
+*  Fri 2:00pm – 11:00pm
 *  Sat 9:00am – 11:30pm
-*  Sun 9:00am – 1:00pm
+*  Sun 9:00am – 3:00pm
 
 **Dead Dog Party** (Con Suite, Room 1645)
 
@@ -99,6 +111,10 @@ Some of this information is also available in grid form at the [main Boskone sit
 *  Fri 6:00pm – 8:00pm
 *  Sat 10:00am – 8:00pm
 *  Sun 10:00am – 2:00pm
+
+**Event Times and Locations**
+
+> On the Program page of the interactive schedule, choose Event from the Select types dropdown.
 
 **Fan Tables** (Galleria/Lower Level—Right of Entrance)
 
@@ -128,7 +144,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 *  Sat 8:30am – 3:00am
 *  Sun 8:30am – 3:00pm
 
-**Garage Elevators** (Lobby Level—Near escalators)
+**Garage Elevators** (Lobby Level—Left, near escalators)
 
 >  *also handicap accessible elevator to Upper Level and Lower Level function space*
 
@@ -138,13 +154,13 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Hotel Information**
 
-*  Westin Boston Seaport District Main #: 617-532-4600
+* Westin Boston Seaport District Main #: 617-532-4600
 * Omni Boston Hotel: 617-476-6664
 * Renaissance Hotel Main #: 617-338-4111
 
 **Information** (Harbor/Upper Level—Foyer)
  
-> *also handling [Access](https://boskone.org/about/access/) and Volunteers*
+> *also handling Volunteers*
 
 *  Fri 3:00pm – 9:00pm
 *  Sat 10:00am – 9:00pm
@@ -236,7 +252,8 @@ Some of this information is also available in grid form at the [main Boskone sit
 * MJ O'Connors (Lobby Level—Left)
 * Sauciety (Lobby Level—Right)
 
-> Also see the [Boskone Restaurant Guide](https://boskone.org/venue/food/).
+> Also see the [Boskone Restaurant Guide](https://boskone.org/venue/food/) online or get a copy at Information.
+
 
 **Tours** (Galleria/Lower Level—Back Right Corner)
 
@@ -246,9 +263,9 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Virtual Program** (Harbor/Upper Level—Harbor I)
 
-*  All activities taking place in Harbor Ballroom I will be streamed to online members, available in-person to onsite members, and recorded for later viewing.
+> All Harbor I items will also be streamed to online members via Zoom and recorded for later viewing by members.
 
-**Volunteers** (see Information)
+**Volunteers** (Go to Information)
 
 **Workshops** (Locations vary)
 

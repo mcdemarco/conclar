@@ -1,21 +1,21 @@
 {
-  "BASE_PATH": "/",
+  "BASE_PATH": "/boskone/2024/cc/",
   "APP_ID": "B61",
   "APP_TITLE": "Boskone 61 Program Guide",
   "APP_DESCRIPTION": "The online schedule for Boskone 61, February 9-11, 2024",
-  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/both.json",
-  "PEOPLE_DATA_URL": "//schedule.boskone.org/data/both.json",
+  "PROGRAM_DATA_URL": "https://b61.hybridcon.org/boskone/2024/schedule.php",
+  "PEOPLE_DATA_URL": "https://b61.hybridcon.org/boskone/2024/schedule.php",
   "FETCH_OPTIONS": {
     "cache": "reload",
-    "credentials": "omit",
+    "credentials": "same-origin",
     "headers": {
-      "Origin": "https://schedule.boskone.org"
+      "Origin": "https://b61.hybridcon.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
-    "credentials": "omit",
+    "credentials": "same-origin",
     "headers": {
-      "Origin": "https://schedule.boskone.org"
+      "Origin": "https://b61.hybridcon.org"
     }
   },
   "TIMEZONE": "America/New_York",

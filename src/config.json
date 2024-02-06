@@ -60,19 +60,29 @@
     },
     "MY_SCHEDULE": {
       "TITLE": "My Con",
-      "SHARE": {
-        "LABEL": "Share program selection",
-        "DESCRIPTION": "Copy and paste this link to share your selections with other devices. Or point your camera at the QR code below.",
+      "DESCRIPTION": "Check the checkbox on any program item to add it here.  Uncheck to remove.  Sharing options will appear once items have been added.",
+      "SHARE": [{
+        "LABEL": "Share these program items to another person or device",
+        "DESCRIPTION": "Copy and paste this link to share your selections with other devices, or point your camera at the QR code below.",
         "LINK_LABEL": "Shareable link",
         "MAX_LENGTH": 2500,
         "MULTIPLE_DESCRIPTION": "Because you have selected a large number of items, you will need to use multiple links/QR codes to transfer to your other devices.",
         "MULTIPLE_LINK_LABEL": "Shareable link #@number"
-      }
+      },
+      {
+	"URL": "https://b61.hybridcon.org/boskone/2024/cc/",
+        "LABEL": "Share these program items to the members-only schedule",
+        "DESCRIPTION": "Copy and paste this link to share your selections from the public schedule to the members-only online schedule (which has Zoom and recording links).  Or point your camera at the QR code below.  Note that the device must be logged in to the online portion of the convention to access that schedule.",
+        "LINK_LABEL": "Shareable link to members-only schedule",
+        "MAX_LENGTH": 2500,
+        "MULTIPLE_DESCRIPTION": "Because you have selected a large number of items, you will need to use multiple links/QR codes to transfer to the members-only schedule.",
+        "MULTIPLE_LINK_LABEL": "Shareable members-only link #@number"
+      }]
     },
     "SHARED": {
       "TITLE": "Shared Program Items",
-      "DESCRIPTION": "The following program items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
-      "BUTTON_LABEL": "Add all to My Schedule"
+      "DESCRIPTION": "The following program items have been shared with you. To add to your schedule, check them individually or click the button at the bottom of the page.  (Checked items are in your schedule now.)",
+      "BUTTON_LABEL": "Add all to My Con"
     }
   },
   "TAGS": {

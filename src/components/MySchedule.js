@@ -21,10 +21,20 @@ const MySchedule = () => {
       ? LocalTime.filterPastItems(mySchedule)
       : mySchedule;
 
+  const getShareLinks = () => {
+    const shareLinks = [];
+    let key = 0;
+    for (const shareConfig of configData.PROGRAM.MY_SCHEDULE.SHARE) {
+      shareLinks.push(<ShareLink key={key++} shareConfig={shareConfig}/>);
+    };
+    return <div className="all-share-linkss">{shareLinks}</div>;
+  };
+
   return (
     <div className="my-schedule">
       <div className="page-heading">
         <h2>{configData.PROGRAM.MY_SCHEDULE.TITLE}</h2>
+	<p>{configData.PROGRAM.MY_SCHEDULE.DESCRIPTION}</p>
       </div>
       <div className="result-filters">
         <div className="stack">
@@ -42,7 +52,7 @@ const MySchedule = () => {
         </div>
       </div>
       <ProgramList program={filtered} />
-      <ShareLink />
+      {getShareLinks()}
     </div>
   );
 };

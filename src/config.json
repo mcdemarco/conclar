@@ -60,19 +60,29 @@
     },
     "MY_SCHEDULE": {
       "TITLE": "My Con",
-      "SHARE": {
-        "LABEL": "Share program selection",
-        "DESCRIPTION": "Copy and paste this link to share your selections with other devices. Or point your camera at the QR code below.",
+      "DESCRIPTION": "Check the checkbox on any program item to add it here.  Uncheck to remove.  Sharing options will appear once items have been added.",
+      "SHARE": [{
+        "LABEL": "Share these program items to another person or device",
+        "DESCRIPTION": "Copy and paste this link to share your selections with other devices, or point your camera at the QR code below.  Note that the other device must also be logged in to the online portion of the convention.",
         "LINK_LABEL": "Shareable link",
         "MAX_LENGTH": 2500,
         "MULTIPLE_DESCRIPTION": "Because you have selected a large number of items, you will need to use multiple links/QR codes to transfer to your other devices.",
         "MULTIPLE_LINK_LABEL": "Shareable link #@number"
-      }
+      },
+      {
+	"URL": "https://schedule.boskone.org/",
+        "LABEL": "Share these program items to the public schedule",
+        "DESCRIPTION": "Copy and paste this link to share your selections from the members-only online schedule to the public schedule.  Or point your camera at the QR code below.",
+        "LINK_LABEL": "Shareable link to public schedule",
+        "MAX_LENGTH": 2500,
+        "MULTIPLE_DESCRIPTION": "Because you have selected a large number of items, you will need to use multiple links/QR codes to transfer to the public schedule.",
+        "MULTIPLE_LINK_LABEL": "Shareable public link #@number"
+      }]
     },
     "SHARED": {
       "TITLE": "Shared Program Items",
-      "DESCRIPTION": "The following program items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
-      "BUTTON_LABEL": "Add all to My Schedule"
+      "DESCRIPTION": "The following program items have been shared with you. To add to your schedule, check them individually or click the button at the bottom of the page.  (Checked items are in your schedule now.)",
+      "BUTTON_LABEL": "Add all to My Con"
     }
   },
   "TAGS": {

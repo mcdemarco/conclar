@@ -10,7 +10,7 @@ const ShareLink = ({shareConfig}) => {
   const links = [];
   let key = 0;
   function addLink(linkItems, multi) {
-    const link =  "ids/" + linkItems;  // react router already resolves the path
+    const link =  "../ids/" + linkItems;  // react router already resolves the path
     const baselink = configData.BASE_PATH + link;
     let absLink = `${window.location.origin}${baselink}`;
     if (shareConfig.hasOwnProperty("URL")) {

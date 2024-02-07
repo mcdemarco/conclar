@@ -173,6 +173,7 @@
     },
     "THUMBNAILS": {
       "SHOW_THUMBNAILS": true,
+      "SHOW_ON_ITEMS": true,
       "SHOW_CHECKBOX": true,
       "CHECKBOX_LABEL": "Show thumbnails",
       "DEFAULT_IMAGE": "head.svg"

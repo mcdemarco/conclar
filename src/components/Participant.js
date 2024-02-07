@@ -4,7 +4,7 @@ import configData from "../config.json";
 
 const Participant = ({ person, thumbnails, moderator }) => {
   function getParticipantThumbnail(person) {
-    if (thumbnails) {
+    if (thumbnails && configData.PEOPLE.THUMBNAILS.SHOW_ON_ITEMS) {
       if (person.img) {
         return (
           <div className="participant-image">
@@ -20,7 +20,7 @@ const Participant = ({ person, thumbnails, moderator }) => {
         );
       }
       if (
-        configData.PEOPLE.THUMBNAILS &&
+        configData.PEOPLE.THUMBNAILS.SHOW_ON_ITEMS &&
         configData.PEOPLE.THUMBNAILS.DEFAULT_IMAGE
       ) {
         return (

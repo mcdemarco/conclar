@@ -12,13 +12,13 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 > Elevators accessing hotel function space are in an alcove near the entrance to the downward escalators.
 
-> Preferred Seating for vision, hearing, or mobility impaired individuals will be available in all program rooms.
+> Preferred Seating for vision, hearing, or mobility impaired individuals will be available in all program rooms.  Several seats will be marked with "Reserved for Access" signs.
 
 > Boskone will **not** have ASL Interpretation available.
 
 > For other issues see the [main Boskone website](https://boskone.org/about/access/), or go to the Con Office or Hotel Concierge.
 
-**Anime/Video Room** (Harbor/Upper Level—Lewis)
+**Anime/Video Room** (Harbor/Upper Level—Griffin)
 
 *  Fri 3:30pm – 2:15am
 *  Sat 9:30am – 2:15am

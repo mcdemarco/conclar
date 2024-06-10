@@ -3,19 +3,19 @@
   "APP_ID": "B61S",
   "APP_TITLE": "Boskone 61 Program Guide",
   "APP_DESCRIPTION": "The non-interactive schedule for Boskone 61, February 9-11, 2024",
-  "PROGRAM_DATA_URL": "//schedule.boskone.org/data/both.json",
-  "PEOPLE_DATA_URL": "//schedule.boskone.org/data/both.json",
+  "PROGRAM_DATA_URL": "/still/both.json",
+  "PEOPLE_DATA_URL": "/still/both.json",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "https://schedule.boskone.org"
+      "Origin": "https://b61.boskone.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "https://schedule.boskone.org"
+      "Origin": "https://b61.boskone.org"
     }
   },
   "TIMEZONE": "America/New_York",

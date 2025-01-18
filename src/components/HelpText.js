@@ -11,7 +11,7 @@ const HelpText = () => {
     setHelpTextDismissed({ ...helpTextDismissed, [item]: true });
   };
   const selector = mySchedule.length > 0 ? "SHARING" : "WELCOME";
-  if (selector in helpTextDismissed && helpTextDismissed[selector]) {
+  if (true || selector in helpTextDismissed && helpTextDismissed[selector]) {
     return <></>;
   }
   const text = configData.HELP_TEXT[selector];

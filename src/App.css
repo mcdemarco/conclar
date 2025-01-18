@@ -579,13 +579,15 @@ input.switch:checked ~ label:after {
 }
 
 .time-convention-message {
-  font-weight: bold;
+  font-style: italic;
   color: var(--program-time-convention-message);
+  text-align: right;
 }
 
 .time-local-message {
   font-style: italic;
   color: var(--program-time-local-message);
+  text-align: right;
 }
 
 .date-heading {

@@ -2,9 +2,9 @@
 
 *Most convention activities are located to the left (Harbor Side) as you enter the hotel lobby from the front entrance, except for the following on Tower side:*
 
-   * Filk – Stone – Lobby Level
-   * Kaffeeklatsches – Otis – Lobby Level
-   * Consuite – Hotel room 1645
+   * **Filk** – Stone (Lobby Level)
+   * **Kaffeeklatsches** – Otis (Lobby Level)
+   * **Consuite** – Room 1645
 
 The hours listed below are for Eastern Standard Time (UTC -0500).
 

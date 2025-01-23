@@ -90,12 +90,6 @@ Some of this information is also available in grid form at the [main Boskone sit
 *  Sat 10:00am – Midnight
 *  Sun 10:00am – 4:00pm
 
-**Dance and Movement** (Harbor Side/Lobby Level—Marina 1)
-
-*  Fri 2:00pm – 11:00pm
-*  Sat 9:00am – 11:30pm
-*  Sun 9:00am – 3:00pm
-
 **Dead Dog Party** (Con Suite, Room 1645)
 
 *  Sunday after teardown
@@ -164,7 +158,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 * Westin Boston Seaport District Main #: 617-532-4600
 
-**Information** (see Narnia)
+**Information** (see NarniaCon)
  
 > *also handling Volunteers*
 
@@ -192,9 +186,15 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 > Sign up in Program Ops (Harbor Side/Upper Level—Foyer)
 
+**Movement Track** (Harbor Side/Lobby Level—Marina I)
+
+*  Fri 1:00pm – Midnight
+*  Sat 9:00am – Midnight
+*  Sun 9:00am – 3:00pm
+
 **NarniaCon/Coat Check** (Harbor Side/Lobby Level—Marina Foyer)
 
-> *also handling Information and Volunteers*
+> *also handling Information, Scavenger Hunt, and Volunteers*
 
 *  Fri 1:00pm – 12:30am
 *  Sat 9:00am – 12:30am
@@ -260,6 +260,8 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 > Also see the [Boskone Restaurant Guide](https://boskone.org/venue/food/) online or get a copy at Information.
 
+**Scavenger Hunt** (See NarniaCon)
+
 **Tours** (Galleria/Lower Level—Back Right Corner)
 
 > Meet near Art Show entrance.
@@ -270,7 +272,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 > All Harbor I items will also be streamed to online members via Zoom and recorded for later viewing by members.
 
-**Volunteers** (See Narnia)
+**Volunteers** (See NarniaCon)
 
 **Workshops** (Most will be in Harbor Side/Upper Level—Carlton)
 

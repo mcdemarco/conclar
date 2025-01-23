@@ -1,5 +1,5 @@
 {
-  "APP_ID": "B62",
+  "APP_ID": "B62S",
   "APP_TITLE": "Boskone 62 Program Guide",
   "PROGRAM_DATA_URL": "/data/both.json",
   "PEOPLE_DATA_URL": "/data/both.json",
@@ -18,7 +18,7 @@
   },
   "TIMEZONE": "America/New_York",
   "TIMEZONECODE": "EST",
-  "INTERACTIVE": true,
+  "INTERACTIVE": false,
   "HEADER": {
     "IMG_SRC": "",
     "IMG_ALT_TEXT": "",

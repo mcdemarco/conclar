@@ -1,6 +1,10 @@
 ## Areas, Hours & Locations
 
-*All convention activities are located to the left as you enter the hotel lobby from the front entrance, except for the Con Suite, which is in a hotel room (1645) this year.  See the main Boskone site for [maps](https://boskone.org/venue/maps/).*
+*Most convention activities are located to the left (Harbor Side) as you enter the hotel lobby from the front entrance, except for the following on Tower side:*
+
+   * Filk – Stone – Lobby Level
+   * Kaffeeklatsches – Otis – Lobby Level
+   * Consuite – Hotel room 1645
 
 The hours listed below are for Eastern Standard Time (UTC -0500).
 
@@ -12,13 +16,13 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 > Elevators accessing hotel function space are in an alcove near the entrance to the downward escalators.
 
-> Preferred Seating for vision, hearing, or mobility impaired individuals will be available in all program rooms.  Several seats will be marked with "Reserved for Access" signs.
+> Preferred Seating for vision, hearing, or mobility-impaired individuals will be available in all program rooms.  Several seats will be marked with "Reserved for Access" signs.
 
 > Boskone will **not** have ASL Interpretation available.
 
-> For other issues see the [main Boskone website](https://boskone.org/about/access/), or go to the Con Office or Hotel Concierge.
+> For other issues, see the [main Boskone website](https://boskone.org/about/access/) or go to the Con Office or Hotel Concierge.
 
-**Anime/Video Room** (Harbor/Upper Level—Griffin)
+**Anime/Video Room** (Harbor Side/Upper Level—Lewis)
 
 *  Fri 3:30pm – 2:15am
 *  Sat 9:30am – 2:15am
@@ -59,10 +63,10 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Autographing** (Galleria/Lower Level—Dead Center)
 
-*  Sat 10:00am – 7:00pm
+*  Sat 10:00am – 3:00pm
 *  Sun 10:00am – 2:00pm
 
-**Book Giveaway Tables** (Harbor/Upper Level—Foyer)
+**Book Giveaway Tables** (Harbor Side/Upper Level—Foyer)
 
 > Across from Registration.
 
@@ -74,15 +78,19 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 > All policies are available at the [main Boskone site](https://boskone.org/about/policies/)
 
+**Concert Times and Locations**
+
+> On the Program page of the interactive schedule, choose Concert from the Select types dropdown.
+
 **Con Office** (Galleria/Lower Level—Middle Back)
 
-**Con Suite** (Hotel/Room 1645)
+**Con Suite** (Tower Side—Room 1645)
 
 *  Fri 6:00pm – Midnight
 *  Sat 10:00am – Midnight
-*  Sun 10:00am – 3:00pm
+*  Sun 10:00am – 4:00pm
 
-**Dance and Movement** (Lobby Level—Marina 1)
+**Dance and Movement** (Harbor Side/Lobby Level—Marina 1)
 
 *  Fri 2:00pm – 11:00pm
 *  Sat 9:00am – 11:30pm
@@ -108,8 +116,8 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Dragonslair** (Galleria/Lower Level—Left of Entrance)
 
-*  Fri 6:00pm – 8:00pm
-*  Sat 10:00am – 8:00pm
+*  Fri 3:30pm – 6:00pm
+*  Sat 10:00am – 6:00pm
 *  Sun 10:00am – 2:00pm
 
 **Event Times and Locations**
@@ -122,7 +130,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 *  Sat 11:00am – 6:00pm
 *  Sun 11:00am – 3:00pm
 
-**Filk/Music** (Harbor/Upper Level—Carlton)
+**Filk/Music** (Tower Side/Lobby Level—Stone)
 
 *  Fri 4:00pm – 1:30am+
 *  Sat 10:00am – 1:30am+
@@ -138,15 +146,15 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 *  Fri 2:30pm – 6:30pm
 
-**Gaming** (Harbor/Upper Level—Lewis)
+**Gaming** (Harbor Side/Lobby Level—Marina II)
 
 *  Fri 4:00pm – 3:00am
 *  Sat 8:30am – 3:00am
 *  Sun 8:30am – 3:00pm
 
-**Garage Elevators** (Lobby Level—Left, near escalators)
+**Garage Elevators** (Harbor Side/Lobby Level, near escalators)
 
->  *also handicap accessible elevator to Upper Level and Lower Level function space*
+>  *also accessible elevator to Upper Level and Lower Level function space*
 
 ***Helmuth*—At Con Newletter** (Galleria/Lower Level—Con Office)
 
@@ -155,20 +163,14 @@ Some of this information is also available in grid form at the [main Boskone sit
 **Hotel Information**
 
 * Westin Boston Seaport District Main #: 617-532-4600
-* Omni Boston Hotel: 617-476-6664
-* Renaissance Hotel Main #: 617-338-4111
 
-**Information** (Harbor/Upper Level—Foyer)
+**Information** (see Narnia)
  
 > *also handling Volunteers*
 
-*  Fri 3:00pm – 9:00pm
-*  Sat 10:00am – 9:00pm
-*  Sun 10:00am – 3:00pm
+**Kaffeeklatsches** (Tower Side–Lobby Level–Otis)
 
-**Kaffeeklatsches** (Galleria/Lower Level—Far right along windows)
-
->  *Sign-up at Program Ops (Upper Level)*
+>  *Sign-up at Program Ops (Harbor Side/Upper Level)*
 
 *  Friday — none scheduled
 *  Saturday – signups Fri 7pm – 9pm (also Sat 10am+ if spaces remain)
@@ -188,11 +190,13 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Meetup Space** (Galleria/Lower Level—Right Back Corner)
 
-> Sign up in Program Ops (Harbor/Upper Level—Foyer)
+> Sign up in Program Ops (Harbor Side/Upper Level—Foyer)
 
-**NarniaCon/Coat Check** (Lobby Level—Marina Foyer)
+**NarniaCon/Coat Check** (Harbor Side/Lobby Level—Marina Foyer)
 
-*  Fri 1:30pm – 12:30am
+> *also handling Information and Volunteers*
+
+*  Fri 1:00pm – 12:30am
 *  Sat 9:00am – 12:30am
 *  Sun 9:00am – 4:00pm
 
@@ -210,7 +214,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 * Daily 5:00am – 10:00pm
 
-**Program Ops** (Harbor/Upper Level—Foyer)
+**Program Ops** (Harbor Side/Upper Level—Foyer)
 
 > Program Participant Check-In
 
@@ -227,17 +231,19 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Programming Locations**
 
->  Marina Ballrooms II, III, & IV (Lobby Level)
+>  Marina Ballrooms III & IV (Harbor Side/Lobby Level)
 
->  Harbor Ballrooms I, II, & III (Upper Level)
+>  Harbor Ballrooms I, II, & III (Harbor Side/Upper Level)
 
->  Burroughs, Carlton (Filk) (Harbor/Upper Level)
+>  Burroughs, Carlton, & Independence Board Room (Readings) (Harbor Side/Upper Level)
 
-**Readings** (Galleria/Lower Level—Far Right Front)
+>  Otis (Filk) & Stone (Kaffeeklatsches) (Tower Side/Lobby Level) 
 
-**Registration [At-Con]** (Harbor/Upper Level—Foyer)
+**Readings** (Harbor Side/Upper Level—Independence Board Room)
 
-> *Photo ID & Mask Required!*
+**Registration [At-Con]** (Harbor Side/Upper Level—Foyer)
+
+> *Photo ID Required!*
 
 *  Fri 1:00pm – 8:30pm
 *  Sat 9:00am – 6:00pm
@@ -247,13 +253,12 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 > *See hours on the [Westin website](https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/dining/)*
 
-* Starbucks (Lobby Level—Right)
-* Birch Bar (Lobby Level—Center)
-* MJ O'Connors (Lobby Level—Left)
-* Sauciety (Lobby Level—Right)
+* Starbucks (Tower Side/Lobby Level)
+* Birch Bar (Center/Lobby Level)
+* MJ O'Connors (Harbor Side/Lobby Level)
+* Sauciety (Tower Side/Lobby Level)
 
 > Also see the [Boskone Restaurant Guide](https://boskone.org/venue/food/) online or get a copy at Information.
-
 
 **Tours** (Galleria/Lower Level—Back Right Corner)
 
@@ -261,12 +266,12 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Video** (See *Anime*)
 
-**Virtual Program** (Harbor/Upper Level—Harbor I)
+**Virtual Program** (Harbor Side/Upper Level—Harbor I)
 
 > All Harbor I items will also be streamed to online members via Zoom and recorded for later viewing by members.
 
-**Volunteers** (Go to Information)
+**Volunteers** (See Narnia)
 
-**Workshops** (Locations vary)
+**Workshops** (Most will be in Harbor Side/Upper Level—Carlton)
 
 > No sign-up necessary for workshops.

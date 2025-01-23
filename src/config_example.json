@@ -1,19 +1,19 @@
 {
   "APP_ID": "B62",
   "APP_TITLE": "Boskone 62 Program Guide",
-  "PROGRAM_DATA_URL": "/both.json",
-  "PEOPLE_DATA_URL": "/both.json",
+  "PROGRAM_DATA_URL": "/data/both.json",
+  "PEOPLE_DATA_URL": "/data/both.json",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "http://schedule.mcdemarco.net"
+      "Origin": "https://schedule.boskone.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "http://schedule.mcdemarco.net"
+      "Origin": "https://schedule.boskone.org"
     }
   },
   "TIMEZONE": "America/New_York",
@@ -83,7 +83,7 @@
     },
     "SHARED": {
       "TITLE": "Shared Program Items",
-      "DESCRIPTION": "The following programme items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
+      "DESCRIPTION": "The following program items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
       "BUTTON_LABEL": "Add all to My Con"
     }
   },

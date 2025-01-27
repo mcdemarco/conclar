@@ -61,6 +61,10 @@ Some of this information is also available in grid form at the [main Boskone sit
 	
 **Authors' Alley** (Galleria/Lower Level—Left of Entrance)
 
+    *  Fri 5:00pm – 7:00pm
+    *  Sat 10:00am – 4:00pm
+    *  Sun 12:00pm – 2:00pm
+
 **Autographing** (Galleria/Lower Level—Dead Center)
 
 *  Sat 10:00am – 3:00pm
@@ -126,7 +130,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Filk/Music** (Tower Side/Lobby Level—Stone)
 
-*  Fri 4:00pm – 1:30am+
+*  Fri 2:30pm – 1:30am+
 *  Sat 10:00am – 1:30am+
 *  Sun 10:00am – 5:30pm (including Dead Dog Filk, may reconvene after dinner break)
 

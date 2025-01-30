@@ -146,8 +146,8 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 **Gaming** (Harbor Side/Lobby Level—Marina II)
 
-*  Fri 4:00pm – 3:00am
-*  Sat 8:30am – 3:00am
+*  Fri 4:00pm – 1:00am
+*  Sat 8:30am – 1:00am
 *  Sun 8:30am – 3:00pm
 
 **Garage Elevators** (Harbor Side/Lobby Level, near escalators)

@@ -82,10 +82,6 @@ Some of this information is also available in grid form at the [main Boskone sit
 
 > All policies are available at the [main Boskone site](https://boskone.org/about/policies/)
 
-**Concert Times and Locations**
-
-> On the Program page of the interactive schedule, choose Concert from the Select types dropdown.
-
 **Con Office** (Galleria/Lower Level—Middle Back)
 
 **Con Suite** (Tower Side—Room 1645)
@@ -93,6 +89,10 @@ Some of this information is also available in grid form at the [main Boskone sit
 *  Fri 6:00pm – Midnight
 *  Sat 10:00am – Midnight
 *  Sun 10:00am – 4:00pm
+
+**Concert Times and Locations**
+
+> On the Program page of the interactive schedule, choose Concert from the Select types dropdown.
 
 **Dead Dog Party** (Con Suite, Room 1645)
 

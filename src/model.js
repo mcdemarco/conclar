@@ -33,7 +33,7 @@ const model = {
   programSearch: "",
   peopleSelectedTags: {},
   peopleSearch: "",
-  showThumbnails: localStorage.getItem("thumbnails") === "false" ? false : true,
+  showThumbnails: localStorage.getItem("thumbnails") === "true" ? true : false,
   sortByFullName: localStorage.getItem("sort_people") === "true" ? true : false,
   onLine: window.navigator.onLine,
   darkMode: localStorage.getItem("dark_mode") ? localStorage.getItem("dark_mode") : 'browser',

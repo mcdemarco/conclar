@@ -101,7 +101,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 **Dealers Room** (Galleria/Lower Level—Left)
 
 *  Fri 4:00pm – 8:00pm
-*  Sat 10:00am – 7:00pm
+*  Sat 10:00am – 6:00pm
 *  Sun 10:00am – 3:00pm
 
 **Discord**

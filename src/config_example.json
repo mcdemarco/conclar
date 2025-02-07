@@ -1,19 +1,19 @@
 {
-  "APP_ID": "B62",
-  "APP_TITLE": "Boskone 62 Program Guide",
+  "APP_ID": "B62P",
+  "APP_TITLE": "Boskone 62 Portal",
   "PROGRAM_DATA_URL": "/data/both.json",
   "PEOPLE_DATA_URL": "/data/both.json",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "https://schedule.boskone.org"
+      "Origin": "https://portal.boskone.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "https://schedule.boskone.org"
+      "Origin": "https://portal.boskone.org"
     }
   },
   "TIMEZONE": "America/New_York",

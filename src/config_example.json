@@ -5,13 +5,13 @@
   "PEOPLE_DATA_URL": "/boskone/2025/schedule.php",
   "FETCH_OPTIONS": {
     "cache": "reload",
-    "credentials": "omit",
+    "credentials": "same-origin",
     "headers": {
       "Origin": "https://portal.boskone.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
-    "credentials": "omit",
+    "credentials": "same-origin",
     "headers": {
       "Origin": "https://portal.boskone.org"
     }

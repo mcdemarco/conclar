@@ -64,6 +64,7 @@ Some of this information is also available in grid form at the [main Boskone sit
 *  Fri 5:00pm – 7:00pm
 *  Sat 10:00am – 4:00pm
 *  Sun 12:00pm – 2:00pm
+> [detailed schedule](https://boskone.org/at-the-con/author-alley/)
 
 **Autographing** (Galleria/Lower Level—Dead Center)
 

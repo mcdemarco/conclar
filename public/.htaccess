@@ -1,10 +1,8 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteCond %{HTTPS} off
-    RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L]
-    RewriteBase /
+    RewriteBase /boskone/2025/cc/
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-l
-    RewriteRule . /index.html [L]
+    RewriteRule . /boskone/2025/cc/index.html [L]
 </IfModule>

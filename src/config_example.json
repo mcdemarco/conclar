@@ -1,8 +1,8 @@
 {
   "APP_ID": "B62P",
   "APP_TITLE": "Boskone 62 Portal",
-  "PROGRAM_DATA_URL": "/boskone/2025/cc/data/both.json",
-  "PEOPLE_DATA_URL": "/boskone/2025/cc/data/both.json",
+  "PROGRAM_DATA_URL": "/boskone/2025/schedule.php",
+  "PEOPLE_DATA_URL": "/boskone/2025/schedule.php",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",

@@ -10,6 +10,8 @@ The hours listed below are for Eastern Standard Time (UTC -0500).
 
 Some of this information is also available in grid form at the [main Boskone site](https://boskone.org/program/hours-events/).
 
+All updates have been included in the online schedule; the full list of changes to the printed schedule is available at the [main Boskone site](https://boskone.org/program/schedule/late-changes-boskone-62-program/).
+
 **Access**
 
 > Large Print Pocket Programs will be available at Information.

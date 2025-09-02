@@ -111,7 +111,7 @@
     "DONTLIST": ["track", "days"]
   },
   "HIDE_BEFORE": {
-    "HIDE": false,
+    "HIDE": true,
     "PLACEHOLDER": "Select time",
     "TIMES": [
       { "TIME": "10:00:00", "LABEL_24H": "10:00", "LABEL_12H": "10:00 AM" },

@@ -8,8 +8,14 @@
 
 * [Courtyard by Marriott Albany Clifton Park](https://www.marriott.com/en-us/hotels/albpk-courtyard-albany-clifton-park/overview/)
 
-**Registration (At-Con)** 
+**Registration [At-Con]** (Lobby)
 
 *  Fri 2:00pm – 8:00pm
 *  Sat 9:30am – 4:00pm
 *  Sun 10:00am – 1:00pm
+
+**Hospitality / Con Suite** (Rooms 106 & 107)
+
+*  Friday: 5:00pm – 8:00pm and 10:00pm – midnight
+*  Saturday: 10:00am – 11:00pm
+*  Sunday: 10:00am – 3:00pm

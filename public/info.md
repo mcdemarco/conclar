@@ -3,6 +3,7 @@
 * [Albacon Website](https://albacon.org/)
 * [Code of Conduct](https://albacon.org/2025/albacon-code-of-conduct/)
 * [LASTSFA](https://albacon.org/2025/lastsfa/)
+* [Costume Contest](https://albacon.org/2025/costume-contest/)
 
 **Hotel Information**
 

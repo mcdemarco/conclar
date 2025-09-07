@@ -1,19 +1,19 @@
 {
-  "APP_ID": "A25",
+  "APP_ID": "A25V",
   "APP_TITLE": "Albacon 2025 Program Guide",
-  "PROGRAM_DATA_URL": "/data/both.json",
-  "PEOPLE_DATA_URL": "/data/both.json",
+  "PROGRAM_DATA_URL": "/albacon/2025/schedule.php",
+  "PEOPLE_DATA_URL": "/albacon/2025/schedule.php",
   "FETCH_OPTIONS": {
     "cache": "reload",
-    "credentials": "omit",
+    "credentials": "same-origin",
     "headers": {
-      "Origin": "https://schedule.albacon.org"
+      "Origin": "https://online.albacon.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
-    "credentials": "omit",
+    "credentials": "same-origin",
     "headers": {
-      "Origin": "https://schedule.albacon.org"
+      "Origin": "https://online.albacon.org"
     }
   },
   "TIMEZONE": "America/New_York",

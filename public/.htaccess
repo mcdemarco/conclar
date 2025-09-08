@@ -1,8 +1,8 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /cc/
+    RewriteBase /albacon/2025/cc/
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-l
-    RewriteRule . /cc/index.html [L]
+    RewriteRule . /albacon/2025/cc/index.html [L]
 </IfModule>

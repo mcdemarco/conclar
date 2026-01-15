@@ -1,16 +1,17 @@
+
 ## Areas, Hours & Locations
 
 *Most convention activities are located to the left (Harbor Side) as you enter the hotel lobby from the front entrance, except for the following on Tower side:*
 
-   * **Filk** – Stone (Lobby Level)
-   * **Kaffeeklatsches** – Otis (Lobby Level)
-   * **Consuite** – Room 1645
+* **Filk** – Otis (Lobby Level)
+* **Kaffeeklatsches** – Stone (Lobby Level)
+* **Consuite** – Room 1645
 
 The hours listed below are for Eastern Standard Time (UTC -0500).
 
 Some of this information is also available in grid form at the [main Boskone site](https://boskone.org/program/hours-events/).
 
-All updates have been included in the online schedule; the full list of changes to the printed schedule is available at the [main Boskone site](https://boskone.org/program/schedule/late-changes-boskone-62-program/).
+All updates have been included in the online schedule; the full list of changes to the printed schedule is available at the [main Boskone site](https://boskone.org/program/schedule/late-changes-boskone-63-program/).
 
 **Access**
 
@@ -19,6 +20,8 @@ All updates have been included in the online schedule; the full list of changes 
 > Elevators accessing hotel function space are in an alcove near the entrance to the downward escalators.
 
 > Preferred Seating for vision, hearing, or mobility-impaired individuals will be available in all program rooms.  Several seats will be marked with "Reserved for Access" signs.
+
+> As a proof of concept, we will have a screen with automated captioning of activities in Harbor II.
 
 > Boskone will **not** have ASL Interpretation available.
 
@@ -60,17 +63,17 @@ All updates have been included in the online schedule; the full list of changes 
 *  **Artist Checkout**
 
     *  Sun 1:00pm – 3:00pm
-	
+
 **Authors' Alley** (Galleria/Lower Level—Left of Entrance)
 
 *  Fri 5:00pm – 7:00pm
-*  Sat 10:00am – 4:00pm
-*  Sun 12:00pm – 2:00pm
+*  Sat 10:00am – 6:00pm
+*  Sun 10:00pm – 2:00pm
 > [detailed schedule](https://boskone.org/at-the-con/author-alley/)
 
 **Autographing** (Galleria/Lower Level—Dead Center)
 
-*  Sat 10:00am – 3:00pm
+*  Sat 10:00am – 3:30pm, 5:30pm – 6:30pm
 *  Sun 10:00am – 2:00pm
 
 **Book Giveaway Tables** (Harbor Side/Upper Level—Foyer)
@@ -93,7 +96,7 @@ All updates have been included in the online schedule; the full list of changes 
 *  Sat 10:00am – Midnight
 *  Sun 10:00am – 4:00pm
 
-**Concert Times and Locations**
+**Concerts** (Tower side/Lobby Level—Otis)
 
 > On the Program page of the interactive schedule, choose Concert from the Select types dropdown.
 
@@ -101,11 +104,17 @@ All updates have been included in the online schedule; the full list of changes 
 
 *  Sunday after teardown
 
+**Dead Dog Filk** (Tower side/Lobby Level—Otis)
+
+*  Sun 2:30pm – 5:30pm 
+
 **Dealers Room** (Galleria/Lower Level—Left)
 
 *  Fri 4:00pm – 8:00pm
 *  Sat 10:00am – 6:00pm
 *  Sun 10:00am – 3:00pm
+
+**Demo Area** (Galleria/Lower Level—Raised Right Back Corner)
 
 **Discord**
 
@@ -113,12 +122,16 @@ All updates have been included in the online schedule; the full list of changes 
 
 > For Discord help, see the experts at Narniacon.
 
-**Discussion Groups** (Galleria/Lower Level—Right Back Corner)
+**Discussion Groups** (Galleria/Lower Level—Front Far Right)
+
+**DJ Dance** (Harbor Side/Lobby Level—Marina I)
+
+*  Fri 8:30pm – 11:30pm
 
 **Dragonslair** (Galleria/Lower Level—Left of Entrance)
 
-*  Fri 3:30pm – 6:00pm
-*  Sat 10:00am – 6:00pm
+*  Fri 4:00pm – 6:00pm
+*  Sat 10:00am – 5:00pm
 *  Sun 10:00am – 2:00pm
 
 **Event Times and Locations**
@@ -131,7 +144,7 @@ All updates have been included in the online schedule; the full list of changes 
 *  Sat 11:00am – 6:00pm
 *  Sun 11:00am – 3:00pm
 
-**Filk/Music** (Tower Side/Lobby Level—Stone)
+**Filk/Music** (Tower Side/Lobby Level—Otis)
 
 *  Fri 2:30pm – 1:30am+
 *  Sat 10:00am – 1:30am+
@@ -165,19 +178,17 @@ All updates have been included in the online schedule; the full list of changes 
 
 * Westin Boston Seaport District Main #: 617-532-4600
 
-**Information** (see NarniaCon)
- 
+**Info Desk** (Harbor Side/Upper Level-Foyer)
+
 > *also handling Volunteers*
 
-**Kaffeeklatsches** (Tower Side–Lobby Level–Otis)
+**Kaffeeklatsches** (Tower Side/Lobby Level–Stone)
 
->  *Sign-up at Program Ops (Harbor Side/Upper Level)*
+>  *Sign-up at Program Ops (Harbor Side/Upper Level-Foyer)*
 
 *  Friday — none scheduled
-*  Saturday – signups Fri 7pm – 9pm (also Sat 10am+ if spaces remain)
-*  Sunday – signups start Sat 10am
-
-> No virtual Kaffeeklatsches (in-person only)
+*  Saturday – signups Fri 6:30pm – 9pm; Sat 9:30am–
+*  Sunday – signups Sat 9:30am – 6:00pm; Sun 9:30am–
 
 > You must be present to sign up.
 
@@ -189,20 +200,20 @@ All updates have been included in the online schedule; the full list of changes 
 
 > For lost badges, go to Registration.
 
-**Meetup Space** (Galleria/Lower Level—Right Back Corner)
+**Meetup Space** (Galleria/Lower Level—Front Right)
 
-> Sign up in Program Ops (Harbor Side/Upper Level—Foyer)
+> Sign-up for a time slot on the clipboard on the Meetup table
 
-**Movement Track** (Harbor Side/Lobby Level—Marina I)
+<!--**Movement Track** (Harbor Side/Lobby Level—Marina I)
 
 *  Fri 1:00pm – Midnight
 *  Sat 9:00am – Midnight
 *  Sun 9:00am – 3:00pm
-
+-->
 **NarniaCon/Coat Check** (Harbor Side/Lobby Level—Marina Foyer)
 
-> *also handling Information, Scavenger Hunt, and Volunteers*
-
+<!-- *also handling Scavenger Hunt*
+-->
 *  Fri 1:00pm – 12:30am
 *  Sat 9:00am – 12:30am
 *  Sun 9:00am – 4:00pm
@@ -223,15 +234,15 @@ All updates have been included in the online schedule; the full list of changes 
 
 **Program Ops** (Harbor Side/Upper Level—Foyer)
 
-> Program Participant Check-In
+> Program Participant Check-In and Kaffeeklatsch Sign-up
 
-*  Fri 1:00pm – 8:00pm
-*  Sat 9:00am – 8:00pm
+*  Fri 1:00pm – 9:00pm
+*  Sat 9:00am – 6:00pm
 *  Sun 9:00am – 2:30pm
 
 **Programming Hours** (All Floors)
 
-*  Fri 2:30pm – 11:30pm
+*  Fri 2:30pm – 11:00pm
 *  Sat 10:00am – midnight
 *  Sun 10:00am – 3:30pm (Debrief/feedback 2:30pm – 3:30pm)
 *  Sun Dead Dog Filk until 5:30pm
@@ -244,7 +255,7 @@ All updates have been included in the online schedule; the full list of changes 
 
 >  Burroughs, Carlton, & Independence Board Room (Readings) (Harbor Side/Upper Level)
 
->  Otis (Filk) & Stone (Kaffeeklatsches) (Tower Side/Lobby Level) 
+>  Otis (Filk) & Stone (Kaffeeklatsches) (Tower Side/Lobby Level)
 
 **Readings** (Harbor Side/Upper Level—Independence Board Room)
 
@@ -255,6 +266,10 @@ All updates have been included in the online schedule; the full list of changes 
 *  Fri 1:00pm – 8:30pm
 *  Sat 9:00am – 6:00pm
 *  Sun 9:00am – Noon
+
+**Remote Attendance**
+
+> All activities taking place in Harbor 1 will be streamed via zoom and also recorded for later viewing.
 
 **Restaurants** (Lobby Level)
 
@@ -269,17 +284,13 @@ All updates have been included in the online schedule; the full list of changes 
 
 **Scavenger Hunt** (See NarniaCon)
 
-**Tours** (Galleria/Lower Level—Back Right Corner)
+**Tours** (Galleria/Lower Level—Meet Near Art Show Entrance)
 
 > Meet near Art Show entrance.
 
 **Video** (See *Anime*)
 
-**Virtual Program** (Harbor Side/Upper Level—Harbor I)
-
-> All Harbor I items will also be streamed to online members via Zoom and recorded for later viewing by members.
-
-**Volunteers** (See NarniaCon)
+**Volunteers** (Harbor Side/Upper Level—Foyer)
 
 **Workshops** (Most will be in Harbor Side/Upper Level—Carlton)
 

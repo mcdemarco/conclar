@@ -1,6 +1,6 @@
 {
-  "APP_ID": "B62",
-  "APP_TITLE": "Boskone 62 Program Guide",
+  "APP_ID": "B63",
+  "APP_TITLE": "Boskone 63 Program Guide",
   "PROGRAM_DATA_URL": "/data/both.json",
   "PEOPLE_DATA_URL": "/data/both.json",
   "FETCH_OPTIONS": {

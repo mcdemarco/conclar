@@ -204,16 +204,8 @@ All updates have been included in the online schedule; the full list of changes 
 
 > Sign-up for a time slot on the clipboard on the Meetup table
 
-<!--**Movement Track** (Harbor Side/Lobby Level—Marina I)
-
-*  Fri 1:00pm – Midnight
-*  Sat 9:00am – Midnight
-*  Sun 9:00am – 3:00pm
--->
 **NarniaCon/Coat Check** (Harbor Side/Lobby Level—Marina Foyer)
 
-<!-- *also handling Scavenger Hunt*
--->
 *  Fri 1:00pm – 12:30am
 *  Sat 9:00am – 12:30am
 *  Sun 9:00am – 4:00pm

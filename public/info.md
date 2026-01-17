@@ -234,8 +234,8 @@ All updates have been included in the online schedule; the full list of changes 
 
 **Programming Hours** (All Floors)
 
-*  Fri 2:30pm – 11:00pm
-*  Sat 10:00am – midnight
+*  Fri 2:30pm – 10:00pm
+*  Sat 10:00am – 10:00pm
 *  Sun 10:00am – 3:30pm (Debrief/feedback 2:30pm – 3:30pm)
 *  Sun Dead Dog Filk until 5:30pm
 

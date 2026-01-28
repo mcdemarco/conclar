@@ -130,7 +130,7 @@ All updates have been included in the online schedule; the full list of changes 
 
 **Dragonslair** (Galleria/Lower Level—Left of Entrance)
 
-*  Fri 4:00pm – 6:00pm
+*  Fri 5:00pm – 7:30pm
 *  Sat 10:00am – 5:00pm
 *  Sun 10:00am – 2:00pm
 
@@ -162,8 +162,8 @@ All updates have been included in the online schedule; the full list of changes 
 
 **Gaming** (Harbor Side/Lobby Level—Marina II)
 
-*  Fri 4:00pm – 1:00am
-*  Sat 8:30am – 1:00am
+*  Fri 4:00pm – 12:00am
+*  Sat 8:30am – 12:00am
 *  Sun 8:30am – 3:00pm
 
 **Garage Elevators** (Harbor Side/Lobby Level, near escalators)

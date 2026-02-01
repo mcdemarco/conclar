@@ -80,6 +80,10 @@ All updates have been included in the online schedule; the full list of changes 
 
 > Across from Registration.
 
+**Book Launch Party** (Galleria/Lower Level—Middle)
+
+*  Sat 4:00pm – 5:00pm
+
 **Children's Program** (see Dragonslair)
 
 **Coat Check** (see NarniaCon)
@@ -99,6 +103,8 @@ All updates have been included in the online schedule; the full list of changes 
 **Concerts** (Tower side/Lobby Level—Otis)
 
 > On the Program page of the interactive schedule, choose Concert from the Select types dropdown.
+
+**Crafters' Area** (Galleria/Lower Level—Raised Right Back Corner)
 
 **Dead Dog Party** (Con Suite, Room 1645)
 
@@ -182,6 +188,10 @@ All updates have been included in the online schedule; the full list of changes 
 
 > *also handling Volunteers*
 
+*  Fri 3:00pm – 9:00pm
+*  Sat 10:00am – 9:00pm
+*  Sun 10:00am – 3:00pm
+
 **Kaffeeklatsches** (Tower Side/Lobby Level–Stone)
 
 >  *Sign-up at Program Ops (Harbor Side/Upper Level-Foyer)*
@@ -199,6 +209,8 @@ All updates have been included in the online schedule; the full list of changes 
 **Lost and Found** (Hotel Front Desk)
 
 > For lost badges, go to Registration.
+
+**Makers' Area** (Galleria/Lower Level—Raised Right Back Corner)
 
 **Meetup Space** (Galleria/Lower Level—Front Right)
 
@@ -241,7 +253,7 @@ All updates have been included in the online schedule; the full list of changes 
 
 **Programming Locations**
 
->  Marina Ballrooms III & IV (Harbor Side/Lobby Level)
+>  Marina Ballrooms I, III & IV (Harbor Side/Lobby Level)
 
 >  Harbor Ballrooms I, II, & III (Harbor Side/Upper Level)
 
@@ -274,8 +286,6 @@ All updates have been included in the online schedule; the full list of changes 
 
 > Also see the [Boskone Restaurant Guide](https://boskone.org/venue/food/) online or get a copy at Information.
 
-**Scavenger Hunt** (See NarniaCon)
-
 **Tours** (Galleria/Lower Level—Meet Near Art Show Entrance)
 
 > Meet near Art Show entrance.
@@ -283,6 +293,12 @@ All updates have been included in the online schedule; the full list of changes 
 **Video** (See *Anime*)
 
 **Volunteers** (Harbor Side/Upper Level—Foyer)
+
+> *also serving as Info desk*
+
+*  Fri 3:00pm – 9:00pm
+*  Sat 10:00am – 9:00pm
+*  Sun 10:00am – 3:00pm
 
 **Workshops** (Most will be in Harbor Side/Upper Level—Carlton)
 

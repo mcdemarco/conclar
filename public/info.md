@@ -73,6 +73,7 @@ All updates have been included in the online schedule; the full list of changes 
 
 **Autographing** (Galleria/Lower Level—Dead Center)
 
+*  Fri 4:00pm – 6:30pm
 *  Sat 10:00am – 3:30pm, 5:30pm – 6:30pm
 *  Sun 10:00am – 2:00pm
 

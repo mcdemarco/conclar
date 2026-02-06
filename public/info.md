@@ -198,7 +198,7 @@ All updates have been included in the online schedule; the full list of changes 
 >  *Sign-up at Program Ops (Harbor Side/Upper Level-Foyer)*
 
 *  Friday — none scheduled
-*  Saturday – signups Fri 6:30pm – 9pm; Sat 9:30am–
+*  Saturday – signups Fri 5:00pm – 9:00pm; Sat 9:30am–
 *  Sunday – signups Sat 9:30am – 6:00pm; Sun 9:30am–
 
 > You must be present to sign up.

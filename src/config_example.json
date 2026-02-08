@@ -1,19 +1,19 @@
 {
-  "APP_ID": "B63",
-  "APP_TITLE": "Boskone 63 Program Guide",
-  "PROGRAM_DATA_URL": "/data/both.json",
-  "PEOPLE_DATA_URL": "/data/both.json",
+  "APP_ID": "B63P",
+  "APP_TITLE": "Boskone 63 Portal",
+  "PROGRAM_DATA_URL": "/boskone/2025/schedule.php",
+  "PEOPLE_DATA_URL": "/boskone/2025/schedule.php",
   "FETCH_OPTIONS": {
     "cache": "reload",
-    "credentials": "omit",
+    "credentials": "same-origin",
     "headers": {
-      "Origin": "https://schedule.boskone.org"
+      "Origin": "https://portal.boskone.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
-    "credentials": "omit",
+    "credentials": "same-origin",
     "headers": {
-      "Origin": "https://schedule.boskone.org"
+      "Origin": "https://portal.boskone.org"
     }
   },
   "TIMEZONE": "America/New_York",

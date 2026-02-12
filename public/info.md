@@ -5,7 +5,7 @@
 
 * **Filk** – Otis (Lobby Level)
 * **Kaffeeklatsches** – Stone (Lobby Level)
-* **Consuite** – Room 1645
+* **Consuite** – Room **1545**
 
 The hours listed below are for Eastern Standard Time (UTC -0500).
 
@@ -95,7 +95,7 @@ All updates have been included in the online schedule; the full list of changes 
 
 **Con Office** (Galleria/Lower Level—Middle Back)
 
-**Con Suite** (Tower Side—Room 1645)
+**Con Suite** (Tower Side—Room **1545**)
 
 *  Fri 6:00pm – Midnight
 *  Sat 10:00am – Midnight

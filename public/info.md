@@ -107,7 +107,7 @@ All updates have been included in the online schedule; the full list of changes 
 
 **Crafters' Area** (Galleria/Lower Level—Raised Right Back Corner)
 
-**Dead Dog Party** (Con Suite, Room 1645)
+**Dead Dog Party** (Con Suite, Room **1545**)
 
 *  Sunday after teardown
 

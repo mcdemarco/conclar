@@ -1,23 +1,23 @@
 {
-  "APP_ID": "O2021",
-  "APP_TITLE": "ConClár Programme Guide",
-  "PROGRAM_DATA_URL": "/2022/program.js",
-  "PEOPLE_DATA_URL": "/2022/people.js",
+  "APP_ID": "balt60",
+  "APP_TITLE": "Balticon 60 Program Guide",
+  "PROGRAM_DATA_URL": "/data/both.json",
+  "PEOPLE_DATA_URL": "/data/both.json",
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "http://example.com"
+      "Origin": "https://schedule.balticon.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "http://example.com"
+      "Origin": "https://schedule.balticon.org"
     }
   },
-  "TIMEZONE": "Europe/Dublin",
-  "TIMEZONECODE": "IST",
+  "TIMEZONE": "America/New_York",
+  "TIMEZONECODE": "EDT",
   "INTERACTIVE": true,
   "HEADER": {
     "IMG_SRC": "",
@@ -25,15 +25,15 @@
     "LINEFEED_AFTER_URL": false
   },
   "NAVIGATION": {
-    "PROGRAM": "Programme",
+    "PROGRAM": "Program",
     "PEOPLE": "People",
-    "MYSCHEDULE": "My Schedule",
-    "INFO": "Information",
+    "MYSCHEDULE": "My Con",
+    "INFO": "Info",
     "SETTINGS": "Settings",
-    "EXTRA": [{ "LABEL": "Octocon Home", "URL": "https://octocon.com" }]
+    "EXTRA": []
   },
   "HELP_TEXT": {
-    "WELCOME": "Welcome to ConClár. You can use the checkboxes next to programme items to make a personal schedule. You can view this on the My Schedule page, and share to other devices.",
+    "WELCOME": "Welcome to ConClár. You can use the checkboxes next to program items to make a personal schedule. You can view this on the My Schedule page, and share to other devices.",
     "SHARING": "You may share your personal schedule to other devices using the QR codes on the My Schedule page.",
     "CLOSE_LABEL": "Close",
     "CLOSE_ARIA_LABEL": "Dismiss help text"
@@ -42,7 +42,15 @@
     "SEARCHABLE": false,
     "LABEL": "Show on map",
     "MAPPING": [
-      { "KEY": "Davin - Croke Park", "MAP_URL": "https://map.octocon.com" }
+      { "KEY": "Balmoral", "MAP_URL": "https://map.eastercon2026.org/room/balmoral" },
+      { "KEY": "Fan Lounge", "MAP_URL": "https://map.eastercon2026.org/room/arden" },
+      { "KEY": "Gladstone-Churchill", "MAP_URL": "https://map.eastercon2026.org/room/gladstone-churchill" },
+      { "KEY": "London (Open)", "MAP_URL": "https://map.eastercon2026.org/room/london" },
+      { "KEY": "London (Scheduled)", "MAP_URL": "https://map.eastercon2026.org/room/london" },
+      { "KEY": "Pavilion", "MAP_URL": "https://map.eastercon2026.org/room/pavilion" },
+      { "KEY": "Salisbury-Wellington", "MAP_URL": "https://map.eastercon2026.org/room/salisbury-wellington" },
+      { "KEY": "Sandringham", "MAP_URL": "https://map.eastercon2026.org/room/sandringham" },
+      { "KEY": "Sussex", "MAP_URL": "https://map.eastercon2026.org/room/sussex" }
     ]
   },
   "APPLICATION": {
@@ -67,9 +75,9 @@
       "SEARCH_LABEL": "Search title, desc, or people"
     },
     "MY_SCHEDULE": {
-      "TITLE": "My Schedule",
+      "TITLE": "My Con",
       "EMPTY": {
-        "TEXT": "This page will show your personal convention schedule. To activate it, click the checkboxes next to items you are interested in on the programme page. Your selected items will be listed on this page. You may also share items between devices on this page by scanning the QR code that will be shown at the bottom the page, or copying the link."
+        "TEXT": "This page will show your personal convention schedule. To activate it, click the checkboxes next to items you are interested in on the program page. Your selected items will be listed on this page. You may also share items between devices on this page by scanning the QR code that will be shown at the bottom the page, or copying the link."
       },
       "INTRO": "Your personal schedule is shown below. It is not automatically synced with other devices, but you can use the links or QR codes at the bottom of this page to share your selections to your other devices.",
       "SHARE": {
@@ -83,7 +91,7 @@
     },
     "SHARED": {
       "TITLE": "Shared Program Items",
-      "DESCRIPTION": "The following programme items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
+      "DESCRIPTION": "The following program items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
       "BUTTON_LABEL": "Add all to My Schedule"
     }
   },
@@ -92,37 +100,37 @@
     "SEARCHABLE": false,
     "HIDE": false,
     "SEPARATE": [
-      { "PREFIX": "Division", "PLACEHOLDER": "Select division", "SEARCHABLE": false, "HIDE": true },
-      { "PREFIX": "Type", "PLACEHOLDER": "Select type", "SEARCHABLE": false, "HIDE": false },
-      { "PREFIX": "Tag", "PLACEHOLDER": "Select tag", "SEARCHABLE": false, "HIDE": false },
-      { "PREFIX": "Track", "PLACEHOLDER": "Select track", "SEARCHABLE": false, "HIDE": false }
+      { "PREFIX": "track", "PLACEHOLDER": "Select track", "SEARCHABLE": false, "HIDE": true },
+      { "PREFIX": "type", "PLACEHOLDER": "Select type", "SEARCHABLE": false, "HIDE": false },
+      { "PREFIX": "tag", "PLACEHOLDER": "Select tag", "SEARCHABLE": false, "HIDE": false }
     ],
-    "FORMAT_AS_TAG": false,
+    "FORMAT_AS_TAG": true,
     "DAY_TAG": {
       "GENERATE": true,
       "DAYS": {
-        "4": "Thursday",
         "5": "Friday",
         "6": "Saturday",
         "7": "Sunday",
         "1": "Monday"
       },
       "PLACEHOLDER": "Select days",
-      "SEARCHABLE": false,
+      "SEARCHABLE": true,
       "HIDE": false
     },
-    "DONTLIST": ["Division", "days"]
+    "DONTLIST": ["track", "days"]
   },
   "HIDE_BEFORE": {
     "HIDE": false,
     "PLACEHOLDER": "Select time",
     "TIMES": [
-      { "TIME": "10:00:00", "LABEL_24H": "10:00", "LABEL_12H": "10am" },
-      { "TIME": "12:00:00", "LABEL_24H": "12:00", "LABEL_12H": "12 noon" },
-      { "TIME": "14:00:00", "LABEL_24H": "14:00", "LABEL_12H": "2pm" },
-      { "TIME": "16:00:00", "LABEL_24H": "16:00", "LABEL_12H": "4pm" },
-      { "TIME": "18:00:00", "LABEL_24H": "18:00", "LABEL_12H": "6pm" },
-      { "TIME": "20:00:00", "LABEL_24H": "20:00", "LABEL_12H": "8pm" }
+      { "TIME": "10:00:00", "LABEL_24H": "10:00", "LABEL_12H": "10:00 AM" },
+      { "TIME": "11:30:00", "LABEL_24H": "11:30", "LABEL_12H": "11:30 AM" },
+      { "TIME": "13:00:00", "LABEL_24H": "13:00", "LABEL_12H": "1:00 PM" },
+      { "TIME": "14:30:00", "LABEL_24H": "14:30", "LABEL_12H": "2:30 PM" },
+      { "TIME": "16:00:00", "LABEL_24H": "16:00", "LABEL_12H": "4:00 PM" },
+      { "TIME": "17:30:00", "LABEL_24H": "17:30", "LABEL_12H": "5:30 PM" },
+      { "TIME": "19:00:00", "LABEL_24H": "19:00", "LABEL_12H": "7:00 PM" },
+      { "TIME": "20:30:00", "LABEL_24H": "20:30", "LABEL_12H": "9:30 PM" }
     ]
   },
   "FILTER": {
@@ -145,19 +153,18 @@
     }
   },
   "LINKS": [
-    {"NAME": "signup",
-     "TEXT": "Click to sign up",
-     "TAG": ""
+    { "NAME": "signup", "TEXT": "Click to sign up", "TAG": "" },
+    {
+      "NAME": "meeting",
+      "TEXT": "Click to view stream",
+      "TAG": "type:Streaming",
+      "WHEN": ["during"]
     },
-    {"NAME": "meeting",
-     "TEXT": "Click to view stream",
-     "TAG": "type:Streaming",
-     "WHEN": ["during"]
-    },
-    {"NAME": "recording",
-     "TEXT": "Click to view recording",
-     "TAG": "",
-     "WHEN": ["after"]
+    {
+      "NAME": "recording",
+      "TEXT": "Click to view recording",
+      "TAG": "",
+      "WHEN": ["after"]
     }
   ],
   "CONVENTION_TIME": {
@@ -171,15 +178,15 @@
     "FAILURE": "Unable to convert to local time."
   },
   "TIME_FORMAT": {
-    "DEFAULT_12HR": false,
+    "DEFAULT_12HR": true,
     "SHOW_CHECKBOX": true,
-    "CHECKBOX_LABEL": "Show 12 hour time",
+    "CHECKBOX_LABEL": "AM/PM",
     "AM": "AM",
     "PM": "PM"
   },
   "DURATION": {
     "SHOW_DURATION": true,
-    "DURATION_LABEL": "Duration: @mins mins"
+    "DURATION_LABEL": " (@mins mins)"
   },
   "START_TIME": {
     "START_TIME_LABEL": "Starts: @con_time",
@@ -209,8 +216,7 @@
       "PLACEHOLDER": "Select tags",
       "SEARCHABLE": false,
       "HIDE": false,
-      "SEPARATE": [
-      ]
+      "SEPARATE": []
     },
     "SEARCH": {
       "SHOW_SEARCH": true,
@@ -279,12 +285,5 @@
     "ONLINE_LABEL": "Currently Online",
     "OFFLINE_LABEL": "Currently Offline",
     "FETCH_BUTTON_LABEL": "Fetch Data Now"
-  },
-  "SYNC": {
-    "API_URL": "https://localhost:3001/api/conclar",
-    "LOADING_LABEL": "Loading...",
-    "LOGIN_LABEL": "Log in",
-    "LOGOUT_LABEL": "Log out @display_name",
-    "ERROR_LABEL": "Could not connect to sync server"
   }
 }

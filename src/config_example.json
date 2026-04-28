@@ -20,8 +20,8 @@
   "TIMEZONECODE": "EDT",
   "INTERACTIVE": true,
   "HEADER": {
-    "IMG_SRC": "",
-    "IMG_ALT_TEXT": "",
+    "IMG_SRC": "/cropped-balticon_favicon_dark.png",
+    "IMG_ALT_TEXT": "A stylized purple dragon",
     "LINEFEED_AFTER_URL": false
   },
   "NAVIGATION": {
@@ -209,7 +209,7 @@
       "DEFAULT_IMAGE": "head.svg"
     },
     "SORT": {
-      "SHOW_CHECKBOX": true,
+      "SHOW_CHECKBOX": false,
       "CHECKBOX_LABEL": "Sort by full name"
     },
     "TAGS": {

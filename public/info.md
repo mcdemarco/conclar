@@ -2,7 +2,7 @@
 
 The [Baltimore Science Fiction Society](http://bsfs.org/) is hosting Balticon 59 as a hybrid in-person/virtual convention over Memorial Day weekend, May 23 — 26, 2025.
 
-Once data is loaded, this guide will continue to work even without an internet connection. Contact [helpdesk@balticon.org](mailto:helpdesk@balticon.org) with any concerns about using this tool.
+Contact [helpdesk@balticon.org](mailto:helpdesk@balticon.org) with any concerns about using this tool.
 
 ## Links
 

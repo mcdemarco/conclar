@@ -7,13 +7,13 @@
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "https://schedule.balticon.org"
+      "Origin": "https://schedule-dev.balticon.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "https://schedule.balticon.org"
+      "Origin": "https://schedule-dev.balticon.org"
     }
   },
   "TIMEZONE": "America/New_York",
@@ -149,7 +149,7 @@
   },
   "ITEM_DESCRIPTION": {
     "PURIFY_OPTIONS": {
-      "FORBID_ATTR": ["style", "data-sheets-userformat", "data-sheets-value"]
+      "FORBID_ATTR": ["data-sheets-userformat", "data-sheets-value"]
     }
   },
   "LINKS": [

@@ -4,12 +4,13 @@ The [Baltimore Science Fiction Society](http://bsfs.org/) is hosting Balticon 60
 
 Contact [helpdesk@balticon.org](mailto:helpdesk@balticon.org) with any concerns about using this tool.
 
+---
+
 ## Links
 
 - [Balticon 60 website](https://www.balticon.org/)
 - [**Policies**](https://www.balticon.org/policies), including Code of Conduct and COVID Policy.
   _Concerns? See **Reporting** below._
-<!-- - [Rocket Mail Daily Updates](https://www.balticon.org/rocket-mail)   TBD -->
 - Social Media:
   - [FaceBook](https://www.facebook.com/BalticonConvention)
   - [Instagram](https://instagram.com/balticon.convention/)
@@ -17,23 +18,24 @@ Contact [helpdesk@balticon.org](mailto:helpdesk@balticon.org) with any concerns 
   - [Discord](https://discord.gg/5U3s2YzPzQ)
 - More Schedules (coming soon):
   - [Concerts and Filk](https://www.balticon.org/events/filk)
-<!--   - [Science](https://www.balticon.org/wp60/science-at-balticon/)   TBD -->
-<!--   - [Anime](https://www.balticon.org/wp60/anime/)   TBD -->
-<!--   - [Video](https://www.balticon.org/wp60/video/)   TBD -->
+
+---
 
 ## Maps
 
 Click or tap to open/close. On mobile, pinch to zoom; drag to scroll.
 
-[Floor 5](skin/B59_5th.png) <!-- UPDATE! -->
+[Floor 5](skin/B59_5th.png)
 Dealer Rooms, Artists' Alley, Main Tent, Art Show, Con Ops, Fan Tables, Gaming, Restaurant, Autographs, Science, Con Suite
 
-[Floor 6](skin/B59_6th.png) <!-- UPDATE! -->
+[Floor 6](skin/B59_6th.png)
 Quiet Lounge, Medical, Video, Music, Readings
 
-[Floors 7, 8, & 10](skin/B59_7th.png) <!-- UPDATE! -->
+[Floors 7, 8, & 10](skin/B59_7th.png)
 Children's programming, Workshops, Discussions, 3D Printing/Maker Space
-_Turn right after exiting elevator lobby to find program rooms._
+> _Turn right after exiting elevator lobby to find program rooms._
+
+---
 
 ## Quick Reference
 
@@ -46,12 +48,14 @@ All times are listed in EDT.
 | Sun               |   10 AM — | 5 PM    |
 | Mon               |   10 AM — | 1:30 PM |
 
+
 | **Art Show** | _Floor 5_ | _Maryland A/B_   |
 | ------------ | --------: | :--------------- |
 | Fri          |    5 PM — | 7 PM & 8 PM—9 PM |
 | Sat          |   10 AM — | 8 PM             |
 | Sun          |   10 AM — | 1 PM & 2 PM—5 PM |
 | Mon          |   11 AM — | 2 PM             |
+
 
 | **Artist Alley** | _Floor 5_ | _Lobby_ |
 | ---------------- | --------: | :------ |
@@ -64,6 +68,7 @@ All times are listed in EDT.
 **Con Ops**: _Floor 5, Fells Point (past elevators)_
 
 > Friday 2 PM through Monday 5 PM
+
 > **Phone: 410-574-1200**
 
 | **Con Suite** | _Floor 5_ | _Baltimore A_ |
@@ -81,6 +86,7 @@ All times are listed in EDT.
 | Mon             |   10 AM — | 2 PM               |
 
 **[Gaming](https://www.balticon.org/gaming)**: _Floor 5, Watertable_
+
 Hal Haag Memorial Game Room
 
 | A: Role Playing Games |        |       |
@@ -109,20 +115,26 @@ Hal Haag Memorial Game Room
 **Info Desk**: _Floor 5, Lobby_
 Same hours as Registration; after hours see Con Ops.
 
-| **Masquerade**                    |                            |                             |
-| --------------------------------- | -------------------------- | --------------------------- |
-| Fri 4 PM—7 PM <br/>Sat 10 AM—Noon | Registration               | _Floor 5, Lobby_            |
-| Sat 6 PM — end of Masquerade      | Green Room                 | _Homeland_                  |
-| Sat 6 PM                          | Professional Photography   | _Guilford_                  |
-| Sat 9 PM                          | Fan Photography            | _Guilford_                  |
-| Sat 6:30 PM                       | Workmanship Judging        | _Guilford_                  |
-| Sun 10 AM                         | Return of judged materials | _Guilford_ (@Show and Tell) |
+| **Masquerade**             |                            |                      |
+| -------------------------- | -------------------------- | -------------------- |
+| Fri 4 PM — 7 PM            | Registration               | _Floor 5, Lobby_     |
+| Sat 10 AM—Noon             | Registration               | _Floor 5, Lobby_     |
+| Sat 1 PM - 4 PM            | Rehearsal                  | Maryland Ballroom CD |
+| Sat 6 PM — end of Masq.    | Green Room                 | _Homeland_           |
+| Sat 6 PM                   | Professional Photography   | _Guilford_           |
+| Sat 7:30 PM                | Doors open                 | Maryland Ballroom CD |
+| Sat 8:00 PM                | Masquerade begins          | Maryland Ballroom CD |
+| Sat 9 PM                   | Fan Photography            | _Guilford_           |
+| Sat 6:30 PM                | Workmanship Judging        | _Guilford_           |
+| Sun 10 AM (@Show and Tell) | Return of judged materials | _Guilford_           |
+
 
 | **Medical** | _Floor 6_ | _Room 6017_ |
 | ----------- | --------: | :---------- |
 | Fri         |    1 PM — | 3 AM        |
 | Sat & Sun   |    9 AM — | 3 AM        |
 | Mon         |   10 AM — | 2 PM        |
+
 
 | **Open Filk** | _Floor 6_ | _Kent_ |
 | ------------- | --------: | :----- |
@@ -131,7 +143,8 @@ Same hours as Registration; after hours see Con Ops.
 | Mon           | 2:30 PM — | 7 PM   |
 
 **Quiet Room**: _Floor 6, Room 6019_
-This room will remain open during the con, but may not be quiet after 8pm.
+
+>This room will remain open throughout the con, but may not be quiet after 8pm.
 
 | **Registration** | _Floor 5_ | _Lobby_ |
 | ---------------- | --------: | :------ |
@@ -171,7 +184,10 @@ Same as Sales.
 **WiFi**: _all areas_
 
 > Network: Renaissance_CONF
+
 > Password: Balticon
+
+---
 
 ### Invited Participants Only:
 

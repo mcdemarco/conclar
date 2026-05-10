@@ -7,13 +7,13 @@
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "https://schedule-dev.balticon.org"
+      "Origin": "https://schedule.balticon.org"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "https://schedule-dev.balticon.org"
+      "Origin": "https://schedule.balticon.org"
     }
   },
   "TIMEZONE": "America/New_York",

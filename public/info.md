@@ -1,214 +1,227 @@
 # Welcome to Balticon 60!
 
-The [Baltimore Science Fiction Society](http://bsfs.org/) is hosting Balticon 60 as a hybrid in-person/virtual convention over Memorial Day weekend, May 23 — 26, 2025.
+The [Baltimore Science Fiction Society](http://bsfs.org/) is hosting [Balticon 60](https://www.balticon.org/) as a hybrid in-person/virtual convention over Memorial Day weekend, May 22—25, 2026.
 
 Contact [helpdesk@balticon.org](mailto:helpdesk@balticon.org) with any concerns about using this tool.
 
-> | **WiFi:**   |                    |
-> | ----------- | ------------------ |
-> | Network:    | `Renaissance_CONF` |
-> | Password:   | `Balticon`         |
+> | **WiFi:**  |                    |
+> | ---------- | ------------------ |
+> | Network:   | `Renaissance_CONF` |
+> | Password:  | `Balticon`         |
+
+---
+
+Scroll down for Invited Participants, Policies and Reporting, and Social Media sections.
 
 ---
 
 ## Maps
 
-*Click or tap to open/close. On mobile, pinch to zoom; drag to scroll.*
+_Click or tap to open/close. On mobile, pinch to zoom; drag to scroll._
 
-[Floor 5](skin/B59_5th.png)
-Fan Tables, Restaurant, Gaming, Registration, Artists' Alley,
+[Floor 5](skin/B60_5th.png) 
+Fan Tables, Restaurant, Gaming, Registration, Artist Alley,
 Autographs, Con Suite, Dealer Rooms, Main Tent, Art Show.
-Past elevators: Con Ops, Program Ops
+_Past elevators:_ Con Ops, Program Ops
 
-[Floor 6](skin/B59_6th.png)
+[Floor 6](skin/B60_6th.png) 
 Quiet Lounge, Medical, Videos, Music, Readings
 
-[Floors 7, 8, & 10](skin/B59_7th.png)
+[Floors 7, 8, & 10](skin/B60_7th.png) 
 Children's programming, Workshops, Discussions, 3D Printing/Maker Space.
-*Turn right after exiting elevator lobby to find program rooms.*
+_Turn right after exiting elevator lobby to find program rooms._
 
 ---
 
-## Quick Reference
+## Hours
 
-All times are listed in EDT, and are subject to change.
+_All times are listed in EDT, and are subject to change._
 
-**Registration:**  *Floor 5 Lobby*
-|     |     |
+[**Registration**](https://www.balticon.org/registration-hotel):  Floor 5 Lobby
+| | |
 | --- | --- |
-| Fri   | 1 p.m.—10 p.m. |
-| Sat   | 8:45 a.m.—7 p.m. |
-| Sun   | 8:45 a.m.—5 p.m. |
-| Mon   | 10 a.m.—1:30 p.m. |
+| Fri  | 1—10 pm |
+| Sat  | 8:45 am—7 pm |
+| Sun  | 8:45 am—5 pm |
+| Mon  | 10 am—1:30 pm |
 
-> Please have your ID ready to be verified at badge pickup.
+> _Please have your ID ready to be verified at badge pickup._
 
-**Medical:**  *Floor 6, Room 6017*
-|     |     |
+**Medical**:  Floor 6, Room 6017
+| | |
 | --- | --- |
-| Fri   | 1 p.m.—3 a.m. |
-| Sat & Sun   | 9 a.m.—3 a.m. |
-| Mon   | 10 a.m.—2 p.m. |
+| Fri  | 1 pm—3 am |
+| Sat  | 9 am—3 am |
+| Sun  | 9 am—3 am |
+| Mon  | 10 am—2 pm |
 
-**Accessibility:**  *Floor 5 Lobby*
-|     |     |
+**Accessibility**:  Floor 5 Lobby
+| | |
 | --- | --- |
-| Fri   | 1 p.m.—10 p.m. |
-| Sat   | 10 a.m.—7 p.m. |
-| Sun   | 10 a.m.—5 p.m. |
-| Mon   | 10 a.m.—1:30 p.m. |
+| Fri  | 1—10 pm |
+| Sat  | 10 am—7 pm |
+| Sun  | 10 am—5 pm |
+| Mon  | 10 am—1:30 pm |
 
-**Art Show:**  *Floor 5, Maryland A/B*
-|     |     |
+[**Art Show**](https://www.balticon.org/exhibits-1/art-show):  Floor 5, Maryland A/B
+| | | |
+| --- | --- | --- |
+| Fri  | noon—  |  Artist Check-In |
+| Fri  | 5—7 pm  |  Bidding and Quicksales |
+| Fri  | 8:30—9:30 pm  |  Reception |
+| Sat  | 10 am—8 pm  |  Bidding and Quicksales |
+| Sun  | 10 am—1 pm  |  Bidding and Quicksales |
+| Sun  | 2—4 pm  |  Live Auction in Homeland |
+| Sun  | 2—5 pm  |  Quicksales Only |
+| Sun  | 3—5 pm  |  Artist Check-Out |
+| Mon  | 10 am—2 pm  |  Special Exhibit |
+
+[**Artist Alley**](https://www.balticon.org/exhibits-1/artist-alley):  Floor 5 Lobby
+| | |
 | --- | --- |
-| Fri   | 5 p.m.—7 p.m. & 8 p.m.—9 p.m. |
-| Sat   | 10 a.m.—8 p.m. |
-| Sun   | 10 a.m.—1 p.m. & 2 p.m.—5 p.m. |
-| Mon   | 11 a.m.—2 p.m. |
+| Fri  | 2—7 pm |
+| Sat  | 10 am—7 pm |
+| Sun  | 10 am—7 pm |
+| Mon  | 10 am—1 pm |
 
-**Artists' Alley:**  *Floor 5 Lobby*
-|     |     |
+> _Table hours may vary for participation in panels, workshops, or other events._
+
+**Con Ops**:  Floor 5, Fells Point.
+
+> Fri 2:00 pm — Mon 5:00 pm.  Phone **410-986-4830**.
+
+**Con Suite**:  Floor 5, Baltimore A
+| | |
 | --- | --- |
-| Fri   | 2 p.m.—7 p.m. |
-| Sat & Sun   | 10 a.m.—7 p.m. |
-| Mon   | 10 a.m.—2 p.m. |
+| Fri  | 4 pm—2 am |
+| Sat  | 8 am—2 am |
+| Sun  | 8 am—2 am |
+| Mon  | 8 am—2 pm |
 
-> Table hours may vary for participation in panels, workshops, or other events.
+> _Food service ends by Monday 1 pm._
 
-**Con Ops:**  *Floor 5, Fells Point*
-|     |     |
+[**Dealer Rooms**](https://www.balticon.org/vendor):  Floor 5, Baltimore B & Maryland E/F
+| | |
 | --- | --- |
-| Fri   - Mon   | 2 p.m.—5 p.m. |
-| Phone | 410-574-1200 |
+| Fri  | 2—7 pm |
+| Sat  | 10 am—7 pm |
+| Sun  | 10 am—7 pm |
+| Mon  | 10 am—2 pm |
 
-**Con Suite:**  *Floor 5, Baltimore A*
-|     |     |
-| --- | --- |
-| Fri   | 4 p.m.—2 a.m. |
-| Sat & Sun   | 8 a.m.—2 a.m. |
-| Mon   | 8 a.m.—2 p.m. |
-
-> Food service ends by Monday 1 p.m.
-
-**Dealer Rooms:**  *Floor 5, Baltimore B & Maryland E/F*
-|     |     |
-| --- | --- |
-| Fri   | 2 p.m.—7 p.m. |
-| Sat & Sun   | 10 a.m.—7 p.m. |
-| Mon   | 10 a.m.—2 p.m. |
-
-**[Gaming](https://www.balticon.org/gaming):**  *Floor 5, Watertable (past restaurant)*
+[**Gaming**](https://www.balticon.org/gaming):  Floor 5, Watertable (past restaurant)
 
 > Hal Haag Memorial Game Room
 
-| A: Role Playing |                 |
-| --------------- | --------------- |
-| Fri             | 2 p.m.—4 a.m.   |
-| Sat & Sun       | 8 a.m.—4 a.m.   |
-| Mon             | 8 a.m.—2 p.m.   |
-| B: Tabletop     |                 |
-| --------------- | --------------- |
-| Fri             | 2 p.m.—2 a.m.   |
-| Sat & Sun       | 10 a.m.—2 a.m.  |
-| Mon             | 10 a.m.—2 p.m.  |
-| C: Video Games  |                 |
-| --------------- | --------------- |
-| Fri             | 4 p.m.—9 p.m.   |
-| Sat & Sun       | 8 a.m.—midnight |
-| Mon             | 8 a.m.—2 p.m.   |
+| A: Role Playing |               |
+| --------------- | ------------- |
+| Fri             | 2 pm—4 am     |
+| Sat & Sun       | 8 am—4 am     |
+| Mon             | 8 am—2 pm     |
+| B: Tabletop     |               |
+| ---             | ---           |
+| Fri             | 2 pm—2 am     |
+| Sat & Sun       | 10 am—2 am    |
+| Mon             | 10 am—2 pm    |
+| C: Video Games  |               |
+| ---             | ---           |
+| Fri             | 4—9 pm        |
+| Sat & Sun       | 8 am—midnight |
+| Mon             | 8 am—2 pm     |
 
-**Hotel**:
-|     |
+[**Hotel**](https://www.balticon.org/hotel-directions):
+| |
 | --- |
-| [Renaissance Baltimore Harborplace Hotel](https://www.marriott.com/en-us/hotels/bwish-renaissance-baltimore-harborplace-hotel/overview/)    |
+| [Renaissance Baltimore Harborplace Hotel](https://www.marriott.com/en-us/hotels/bwish-renaissance-baltimore-harborplace-hotel/overview/) |
 | [202 East Pratt Street, Baltimore, Maryland 21202](https://www.google.com/maps/search/?api=1&query=Renaissance+Baltimore+Harborplace+Hotel) |
-| 410-547-1200                                                                                                                                |
+| 410-547-1200 |
 
-**Info Desk:**  *Floor 5 Lobby*
+**Info Desk**:  Floor 5 Lobby
 
 > Same hours as Registration; after hours see Con Ops.
 
-**Masquerade:**  *All events on Floor 5*
-|     |     |     |
-| ------------------------------ | -------------------------- | --------------- |
-| Fri   4 p.m.—7 p.m.            | Registration               | _Lobby_ |
-| Sat   10 a.m.—noon             | Registration               | _Lobby_ |
-| Sat   1 p.m.—4 p.m.            | Rehearsal                  | _Ballroom_      |
-| Sat   6 p.m.—end of Masq.      | Green Room                 | _Homeland_      |
-| Sat   6 p.m.                   | Professional Photography   | _Guilford_      |
-| Sat   7:30 p.m.                | Doors open                 | _Ballroom_      |
-| Sat   8:00 p.m.                | Masquerade begins          | _Ballroom_      |
-| Sat   9 p.m.                   | Fan Photography            | _Guilford_      |
-| Sat   6:30 p.m.                | Workmanship Judging        | _Guilford_      |
-| Sun   10 a.m. (@Show and Tell)   | Return of judged materials   | _Guilford_      |
+[**Masquerade**](https://www.balticon.org/events/masquerade):  All events on Floor 5
+| | | |
+| --- | --- | --- |
+| Fri  4—7 pm  |  Registration  |  Lobby |
+| Sat  10 am—noon  |  Registration  |  Lobby |
+| Sat  1—4 pm  |  Rehearsal  |  Ballroom |
+| Sat  6 pm—end  |  Green Room  |  Homeland |
+| Sat  6 pm  |  Professional Photography  |  Guilford |
+| Sat  7:30 pm  |  Doors open  |  Ballroom |
+| Sat  8 pm  |  Masquerade begins  |  Ballroom |
+| Sat  9 pm  |  Fan Photography  |  Guilford |
+| Sat  6:30 pm  |  Workmanship Judging  |  Guilford |
+| Sun 10 am  |  Show and Tell; return of judged materials  |  Guilford |
 
-**Open Filk:**  *Floor 6, Kent*
-|     |     |
+[**Open Filk**](https://www.balticon.org/events/filk):  Floor 6, Kent
+| | |
 | --- | --- |
-| Fri   | 10 p.m.—2 a.m. |
-| Sat & Sun   | 10 p.m.—2 a.m. |
-| Mon   | 2:30 p.m.—7 p.m. |
+| Fri  | 10 pm—2 am |
+| Sat  | 10 pm—2 am |
+| Sun  | 10 pm—2 am |
+| Mon  | 2:30—6 pm |
 
-**Quiet Lounge:**  *Floor 6, Room 6019*
+**Quiet Lounge**:  Floor 6, Room 6019
 
-> This room will remain open throughout the con, but might not be quiet after 8 p.m.
+> This room will remain open throughout the con, but might not be quiet after 8 pm.
 
-**Reporting:**  *All reports can be made anonymously.*
+[**Restaurant**](https://www.marriott.com/en-us/hotels/bwish-renaissance-baltimore-harborplace-hotel/dining/): Floor 5, Watertable Restaurant and Bar, 410-685-8439
 
-- **Code of Conduct** violations and harassment can be reported
-  - with Con Ops in Fells Point,
-  - by email to [harassment@bsfs.org](mailto:harassment@bsfs.org),
-  - or by phone, using the number posted at Ops.
-- **COVID-19** exposure:
-  - If you develop symptoms of COVID or test positive within 10 days of the con, please report it to [covid@balticon.org](mailto:covid@balticon.org) to facilitate contact tracing.
-
-**Sales:**  *Floor 5, by Federal Hill*
-|     |     |
+**Sales**:  Floor 5, by Federal Hill
+| | |
 | --- | --- |
-| Fri   | 2 p.m.—6:30 p.m. |
-| Sat   | 10:30 a.m.—6:30 p.m. |
-| Sun   | 10:30 a.m.—5:00 p.m. |
-| Mon   | 10:30 a.m.—2 p.m. |
+| Fri  | 2—6:30 pm |
+| Sat  | 10:30 am—6:30 pm |
+| Sun  | 10:30 am—5 pm |
+| Mon  | 10:30 am—2 pm |
 
-**Smoking Area:**  *Floor 7, Fresh Air Patio*, 7 a.m.—10 p.m. daily
+**Smoking Area**:  Floor 7, Fresh Air Patio, 7 am—10 pm daily
 
-**Volunteer Desk:**  *Floor 5 Lobby (with Sales)*, same hours as Sales.
-
-[**Watertable Restaurant and Bar**](https://www.marriott.com/en-us/hotels/bwish-renaissance-baltimore-harborplace-hotel/dining/):  *Floor 5*, 410-685-8439
+[**Volunteer Desk**](https://www.balticon.org/volunteering):  Floor 5 Lobby (with Sales), same hours as Sales.
 
 ---
 
 ## Invited Participants
 
-**Program Ops:**  *Floor 5, Fells Point*
-|     |     |
+**Program Ops**:  Floor 5, Fells Point
+| | |
 | --- | --- |
-| Fri   | 1 p.m.—7 p.m. |
-| Sat   | 9 a.m.—6 p.m. |
-| Sun   | 9 a.m.—4 p.m. |
+| Fri  | 1—7 pm |
+| Sat  | 9 am—6 pm |
+| Sun  | 9 am—4 pm |
 
-> Please check in after you collect your badge from Registration.
-> After hours see Con Ops.
+> _Please check in after you collect your badge from Registration._
+> _After hours see Con Ops._
 
-**Green Room:**  *Floor 12, Presidential Suite*
-|     |     |
+**Green Room**:  Floor 12, Presidential Suite
+| | |
 | --- | --- |
-| Fri   | 3 p.m.—8:30 p.m. |
-| Sat   | 9:30 a.m.—8 p.m. |
-| Sun   | 9:30 a.m.—8:30 p.m. |
-| Mon   | 9:30 a.m.—3 p.m. |
+| Fri  | 3—8:30 pm |
+| Sat  | 9:30 am—8 pm |
+| Sun  | 9:30 am—8:30 pm |
+| Mon  | 9:30 am—3 pm |
 
 ---
 
-## Links
+## Policies and Reporting
 
-- [Balticon 60 website](https://www.balticon.org/)
-- [**Policies**](https://www.balticon.org/policies), including Code of Conduct and COVID Policy.
-*Concerns? See **Reporting**.*
-- Social Media:
-  - [FaceBook](https://www.facebook.com/BalticonConvention)
-  - [Instagram](https://instagram.com/balticon.convention/)
-  - [YouTube](https://www.youtube.com/c/BaltimoreSciFi/videos)
-  - [Discord](https://discord.gg/5U3s2YzPzQ)
-- More Schedules (coming soon):
-  - [Concerts and Filk](https://www.balticon.org/events/filk)
+See [this page](https://www.balticon.org/policies) for policies, including Code of Conduct and COVID Policy.
+
+_All reports can be made anonymously._
+
+- **Code of Conduct** violations and harassment can be reported
+  - with Con Ops in Fells Point,
+  - by email to [harassment@bsfs.org](mailto:harassment@bsfs.org),
+  - or by phone, using the number posted at Ops.
+
+- **COVID-19** exposure:
+  - If you develop symptoms of COVID or test positive within 10 days of the con, please report it to [covid@balticon.org](mailto:covid@balticon.org) to facilitate contact tracing.
+
+---
+
+## Social Media
+
+- [FaceBook](https://www.facebook.com/BalticonConvention)
+- [Instagram](https://instagram.com/balticon.convention/)
+- [YouTube](https://www.youtube.com/c/BaltimoreSciFi/videos)
+- [Discord](https://discord.gg/5U3s2YzPzQ)

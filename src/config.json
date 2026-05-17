@@ -33,8 +33,8 @@
     "EXTRA": []
   },
   "HELP_TEXT": {
-    "WELCOME": "Welcome to ConClár. You can use the checkboxes next to program items to make a personal schedule. You can view this on the My Schedule page, and share to other devices.",
-    "SHARING": "You may share your personal schedule to other devices using the QR codes on the My Schedule page.",
+    "WELCOME": "Welcome to ConClár. You can use the checkboxes next to program items to make a personal schedule. You can view this on the My Con page, and share to other devices.",
+    "SHARING": "You may share your personal schedule to other devices using the QR codes on the My Con page.",
     "CLOSE_LABEL": "Close",
     "CLOSE_ARIA_LABEL": "Dismiss help text"
   },
@@ -92,7 +92,7 @@
     "SHARED": {
       "TITLE": "Shared Program Items",
       "DESCRIPTION": "The following program items have been shared with you. To add to your schedule, click the button at the bottom of the page.",
-      "BUTTON_LABEL": "Add all to My Schedule"
+      "BUTTON_LABEL": "Add all to My Con"
     }
   },
   "TAGS": {

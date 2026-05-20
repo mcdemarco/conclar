@@ -4,10 +4,9 @@ The [Baltimore Science Fiction Society](http://bsfs.org/) is hosting [Balticon 6
 
 Contact [helpdesk@balticon.org](mailto:helpdesk@balticon.org) with any concerns about using this tool.
 
-> | **WiFi:**  |                    |
-> | ---------- | ------------------ |
-> | Network:   | `Renaissance_CONF` |
-> | Password:  | `Balticon`         |
+**WiFi:**    
+Network: `Renaissance_CONF`    
+Password: `Balticon`
 
 ---
 

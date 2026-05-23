@@ -4,8 +4,8 @@ The [Baltimore Science Fiction Society](http://bsfs.org/) is hosting [Balticon 6
 
 Contact [helpdesk@balticon.org](mailto:helpdesk@balticon.org) with any concerns about using this tool.
 
-**WiFi:**    
-Network: `Renaissance_CONF`    
+**WiFi:**
+Network: `Renaissance_CONF`
 Password: `Balticon`
 
 ---
@@ -18,15 +18,15 @@ Scroll down for Invited Participants, Policies and Reporting, and Social Med
 
 _Click or tap to open/close. On mobile, pinch to zoom; drag to scroll._
 
-[Floor 5](skin/B60_5th.png) 
+[Floor 5](skin/B60_5th.png)
 Fan Tables, Restaurant, Gaming, Registration, Artist Alley,
 Autographs, Con Suite, Dealer Rooms, Main Tent, Art Show.
 _Past elevators:_ Con Ops, Program Ops
 
-[Floor 6](skin/B60_6th.png) 
+[Floor 6](skin/B60_6th.png)
 Quiet Lounge, Medical, Videos, Music, Readings
 
-[Floors 7, 8, & 10](skin/B60_7th.png) 
+[Floors 7, 8, & 10](skin/B60_7th.png)
 Children's programming, Workshops, Discussions, 3D Printing/Maker Space.
 _Turn right after exiting elevator lobby to find program rooms._
 
@@ -143,7 +143,7 @@ _All times are listed in EDT, and are subject to change._
 | --- | --- | --- |
 | Fri  4—7 pm  |  Registration  |  Lobby |
 | Sat  10 am—noon  |  Registration  |  Lobby |
-| Sat  1—4 pm  |  Rehearsal  |  Ballroom |
+| Sat  1:45—4 pm  |  Rehearsal  |  Ballroom |
 | Sat  6 pm—end  |  Green Room  |  Homeland |
 | Sat  6 pm  |  Professional Photography  |  Guilford |
 | Sat  7:30 pm  |  Doors open  |  Ballroom |

@@ -163,7 +163,7 @@
     {
       "NAME": "recording",
       "TEXT": "Click to view recording",
-      "TAG": "",
+      "TAG": "type:Recording",
       "WHEN": ["after"]
     }
   ],
